@@ -1,0 +1,388 @@
+year,region,district,constituency,winner_party,margin,n_cand,tier
+2019,Central,Dedza,Dedza Central,MCP,0.6154686078252958,7,safe
+2019,Central,Dedza,Dedza Central East,MCP,0.7350119904076738,7,safe
+2019,Central,Dedza,Dedza East,MCP,0.217981105305049,7,safe
+2019,Central,Dedza,Dedza North,MCP,0.46051379638439577,7,safe
+2019,Central,Dedza,Dedza North West,MCP,0.7530927027873473,7,safe
+2019,Central,Dedza,Dedza South,MCP,0.5615633761964614,7,safe
+2019,Central,Dedza,Dedza South West,MCP,0.685450425413656,7,safe
+2019,Central,Dedza,Dedza West,MCP,0.645211122554068,7,safe
+2019,Central,Dowa,Dowa Central,MCP,0.7479292994452328,7,safe
+2019,Central,Dowa,Dowa East,MCP,0.8119574758607238,7,safe
+2019,Central,Dowa,Dowa Ngala,MCP,0.7717193747728098,7,safe
+2019,Central,Dowa,Dowa North,MCP,0.8399732322105733,7,safe
+2019,Central,Dowa,Dowa North East,MCP,0.7247895873095335,7,safe
+2019,Central,Dowa,Dowa South East,MCP,0.7630333147108119,7,safe
+2019,Central,Dowa,Dowa West,MCP,0.9091441345539706,7,safe
+2019,Central,Kasungu,Kasungu Central,MCP,0.49335850429877637,7,safe
+2019,Central,Kasungu,Kasungu East,MCP,0.6212963547918378,7,safe
+2019,Central,Kasungu,Kasungu North,MCP,0.2541242743001667,7,safe
+2019,Central,Kasungu,Kasungu North East,MCP,0.5632599661382176,7,safe
+2019,Central,Kasungu,Kasungu North North East,MCP,0.410112815518221,7,safe
+2019,Central,Kasungu,Kasungu North West,MCP,0.5573934122344217,7,safe
+2019,Central,Kasungu,Kasungu South,MCP,0.8032377335864894,7,safe
+2019,Central,Kasungu,Kasungu South East,MCP,0.6869762641898866,7,safe
+2019,Central,Kasungu,Kasungu West,MCP,0.6771561771561772,7,safe
+2019,Central,Lilongwe,Lilongwe Central,MCP,0.5663539484470352,7,safe
+2019,Central,Lilongwe,Lilongwe City Centre,MCP,0.09023071651564757,7,tossup
+2019,Central,Lilongwe,Lilongwe City North,MCP,0.8006654375145696,7,safe
+2019,Central,Lilongwe,Lilongwe City South East,MCP,0.04744675205634752,7,tossup
+2019,Central,Lilongwe,Lilongwe City South West,MCP,0.06410620940049433,7,tossup
+2019,Central,Lilongwe,Lilongwe City West,MCP,0.061298483434122086,7,tossup
+2019,Central,Lilongwe,Lilongwe East,MCP,0.8043848043848044,7,safe
+2019,Central,Lilongwe,Lilongwe Kumachenga,MCP,0.6351156069364162,7,safe
+2019,Central,Lilongwe,Lilongwe Mpenu,MCP,0.7593872379636029,7,safe
+2019,Central,Lilongwe,Lilongwe Mpenu Nkhoma,MCP,0.8397244671041927,7,safe
+2019,Central,Lilongwe,Lilongwe Msinja North,MCP,0.6162444914191537,7,safe
+2019,Central,Lilongwe,Lilongwe Msinja South,MCP,0.8098588471791286,7,safe
+2019,Central,Lilongwe,Lilongwe Msozi North,MCP,0.7614964925954794,7,safe
+2019,Central,Lilongwe,Lilongwe Msozi South,MCP,0.780470515262948,7,safe
+2019,Central,Lilongwe,Lilongwe North,MCP,0.9308203041336475,7,safe
+2019,Central,Lilongwe,Lilongwe North East,MCP,0.7874259598905559,7,safe
+2019,Central,Lilongwe,Lilongwe North West,MCP,0.9209278396635798,7,safe
+2019,Central,Lilongwe,Lilongwe South,MCP,0.8551984877126654,7,safe
+2019,Central,Lilongwe,Lilongwe South East,MCP,0.8397502036383384,7,safe
+2019,Central,Lilongwe,Lilongwe South West,MCP,0.666916129032258,7,safe
+2019,Central,Lilongwe,Mapuyu North,MCP,0.8945675040217795,7,safe
+2019,Central,Lilongwe,Mapuyu South,MCP,0.858961474036851,7,safe
+2019,Central,Mchinji,Mchinji Central,MCP,0.5734613823887461,7,safe
+2019,Central,Mchinji,Mchinji East,MCP,0.5682435727722427,7,safe
+2019,Central,Mchinji,Mchinji North,MCP,0.6736289741742978,7,safe
+2019,Central,Mchinji,Mchinji North East,MCP,0.48968507530807853,7,safe
+2019,Central,Mchinji,Mchinji South,MCP,0.8197595190380762,7,safe
+2019,Central,Mchinji,Mchinji South West,MCP,0.569851504493943,7,safe
+2019,Central,Nkhotakota,Nkhotakota Central,MCP,0.2541709476980283,7,safe
+2019,Central,Nkhotakota,Nkhotakota North,DPP,0.13799044561046286,7,lean
+2019,Central,Nkhotakota,Nkhotakota North East,DPP,0.20338774253156755,7,safe
+2019,Central,Nkhotakota,Nkhotakota South,MCP,0.3354855799476839,7,safe
+2019,Central,Nkhotakota,Nkhotakota South East,MCP,0.4428341947199329,7,safe
+2019,Central,Ntcheu,Ntcheu Bwanje North,UTM,0.4267623095997166,7,safe
+2019,Central,Ntcheu,Ntcheu Bwanje South,DPP,0.06959754745287328,7,tossup
+2019,Central,Ntcheu,Ntcheu Central,UTM,0.47677679731855804,7,safe
+2019,Central,Ntcheu,Ntcheu North,UTM,0.22834168640193864,7,safe
+2019,Central,Ntcheu,Ntcheu North East,UTM,0.6031764081570767,7,safe
+2019,Central,Ntcheu,Ntcheu South,UTM,0.18149304855933907,7,lean
+2019,Central,Ntcheu,Ntcheu West,UTM,0.1852621934028757,7,lean
+2019,Central,Ntchisi,Ntchisi East,MCP,0.5299831968073935,7,safe
+2019,Central,Ntchisi,Ntchisi North,MCP,0.5893441604176161,7,safe
+2019,Central,Ntchisi,Ntchisi North East,MCP,0.5930661864025213,7,safe
+2019,Central,Ntchisi,Ntchisi South,MCP,0.6799765120375807,7,safe
+2019,Central,Salima,Salima Central,MCP,0.2760282844584121,7,safe
+2019,Central,Salima,Salima North,MCP,0.2890216078378742,7,safe
+2019,Central,Salima,Salima North West,MCP,0.16204399508129524,7,lean
+2019,Central,Salima,Salima South,DPP,0.049009079371277964,7,tossup
+2019,Central,Salima,Salima South East,MCP,0.15761408730158727,7,lean
+2019,Northern,Chitipa,Chitipa Central,UTM,0.4932105083589219,7,safe
+2019,Northern,Chitipa,Chitipa East,MCP,0.04329074782325659,7,tossup
+2019,Northern,Chitipa,Chitipa North,UTM,0.19618826422569846,7,lean
+2019,Northern,Chitipa,Chitipa South,UTM,0.5232001392878907,7,safe
+2019,Northern,Chitipa,Chitipa Wenya,UTM,0.3098644109963926,7,safe
+2019,Northern,Karonga,Karonga Central,UTM,0.04717809531412154,7,tossup
+2019,Northern,Karonga,Karonga North,DPP,0.12507739938080498,7,lean
+2019,Northern,Karonga,Karonga North West,UTM,0.3574353012535382,7,safe
+2019,Northern,Karonga,Karonga Nyungwe,UTM,0.19442136498516321,7,lean
+2019,Northern,Karonga,Karonga South,UTM,0.3703627370156637,7,safe
+2019,Northern,Likoma,Likoma Islands,DPP,0.02794548904605826,7,tossup
+2019,Northern,Mzimba,Mzimba Central,MCP,0.017397255339840823,7,tossup
+2019,Northern,Mzimba,Mzimba East,MCP,0.08296111403047818,7,tossup
+2019,Northern,Mzimba,Mzimba Hora,UTM,0.16609812592124662,7,lean
+2019,Northern,Mzimba,Mzimba Luwerezi,MCP,0.1149963063284905,7,lean
+2019,Northern,Mzimba,Mzimba North,UTM,0.34251924887830276,7,safe
+2019,Northern,Mzimba,Mzimba North East,MCP,0.03294859750369078,7,tossup
+2019,Northern,Mzimba,Mzimba Solola,MCP,0.19793590975147174,7,lean
+2019,Northern,Mzimba,Mzimba South,MCP,0.07992717341829769,7,tossup
+2019,Northern,Mzimba,Mzimba South East,MCP,0.083497111547853,7,tossup
+2019,Northern,Mzimba,Mzimba South West,MCP,0.15937612047328792,7,lean
+2019,Northern,Mzimba,Mzimba West,UTM,0.05384195441517675,7,tossup
+2019,Northern,Mzimba,Mzuzu City,UTM,0.2990391443602266,7,safe
+2019,Northern,Nkhatabay,Nkhatabay Central,DPP,0.06302250803858522,7,tossup
+2019,Northern,Nkhatabay,Nkhatabay North,UTM,0.31874276899344384,7,safe
+2019,Northern,Nkhatabay,Nkhatabay North West,UTM,0.19947783924908308,7,lean
+2019,Northern,Nkhatabay,Nkhatabay South,UTM,0.12498165272273598,7,lean
+2019,Northern,Nkhatabay,Nkhatabay South East,UTM,0.06818784823560631,7,tossup
+2019,Northern,Nkhatabay,Nkhatabay West,UTM,0.27774348845821506,7,safe
+2019,Northern,Rumphi,Rumphi Central,UTM,0.3728255362269887,7,safe
+2019,Northern,Rumphi,Rumphi East,UTM,0.4457037996545769,7,safe
+2019,Northern,Rumphi,Rumphi North,DPP,0.08614653663415855,7,tossup
+2019,Northern,Rumphi,Rumphi West,UTM,0.19691091693557156,7,lean
+2019,Southern,Balaka,Balaka Central East,DPP,0.3558388787468347,7,safe
+2019,Southern,Balaka,Balaka North,DPP,0.46534020132646536,7,safe
+2019,Southern,Balaka,Balaka South,DPP,0.6538514984482838,7,safe
+2019,Southern,Balaka,Balaka West,DPP,0.36115558401821607,7,safe
+2019,Southern,Blantyre,Blantyre Bangwe,DPP,0.33207710634611215,7,safe
+2019,Southern,Blantyre,Blantyre City Centre,DPP,0.01759698337427873,7,tossup
+2019,Southern,Blantyre,Blantyre City East,DPP,0.09062885326757092,7,tossup
+2019,Southern,Blantyre,Blantyre City South,UTM,0.0328542094455852,7,tossup
+2019,Southern,Blantyre,Blantyre City South East,DPP,0.3392248210940877,7,safe
+2019,Southern,Blantyre,Blantyre City West,DPP,0.022278958086380363,7,tossup
+2019,Southern,Blantyre,Blantyre Kabula,DPP,0.15114510451523183,7,lean
+2019,Southern,Blantyre,Blantyre Malabada,UTM,0.024172802270912785,7,tossup
+2019,Southern,Blantyre,Blantyre North,DPP,0.4255410225921522,7,safe
+2019,Southern,Blantyre,Blantyre North East,DPP,0.261030338683923,7,safe
+2019,Southern,Blantyre,Blantyre Rural East,DPP,0.4881474325629783,7,safe
+2019,Southern,Blantyre,Blantyre South West,DPP,0.5759476655614302,7,safe
+2019,Southern,Blantyre,Blantyre West,DPP,0.5688069628048279,7,safe
+2019,Southern,Chikhwawa,Chikhwawa Central,DPP,0.6834017858967286,7,safe
+2019,Southern,Chikhwawa,Chikhwawa East,DPP,0.6360569568116737,7,safe
+2019,Southern,Chikhwawa,Chikhwawa Mkombezi,DPP,0.47174617237465044,7,safe
+2019,Southern,Chikhwawa,Chikhwawa North,DPP,0.705142397101741,7,safe
+2019,Southern,Chikhwawa,Chikhwawa South,DPP,0.38900770751785646,7,safe
+2019,Southern,Chikhwawa,Chikhwawa West,DPP,0.6003105480467233,7,safe
+2019,Southern,Chiradzulu,Chiradzulu Central,DPP,0.6583264746227708,7,safe
+2019,Southern,Chiradzulu,Chiradzulu East,DPP,0.6424690681641784,7,safe
+2019,Southern,Chiradzulu,Chiradzulu North,DPP,0.555803090190442,7,safe
+2019,Southern,Chiradzulu,Chiradzulu South,DPP,0.8397472534451006,7,safe
+2019,Southern,Chiradzulu,Chiradzulu West,DPP,0.6034439730471675,7,safe
+2019,Southern,Machinga,Machinga Central,DPP,0.521003655699568,7,safe
+2019,Southern,Machinga,Machinga Central East,DPP,0.6409957215091404,7,safe
+2019,Southern,Machinga,Machinga East,DPP,0.12501012501012498,7,lean
+2019,Southern,Machinga,Machinga Likwenu,DPP,0.4368599033816425,7,safe
+2019,Southern,Machinga,Machinga North East,DPP,0.10972806522964829,7,lean
+2019,Southern,Machinga,Machinga South,DPP,0.2590949955049446,7,safe
+2019,Southern,Machinga,Machinga South East,DPP,0.4214092582337036,7,safe
+2019,Southern,Mangochi,Mangochi Central,DPP,0.2725407760105359,7,safe
+2019,Southern,Mangochi,Mangochi East,DPP,0.05590004195999815,7,tossup
+2019,Southern,Mangochi,Mangochi Lutende,DPP,0.5153184923958563,7,safe
+2019,Southern,Mangochi,Mangochi Malombe,DPP,0.43663006829774353,7,safe
+2019,Southern,Mangochi,Mangochi Masongola,DPP,0.01950727318590767,7,tossup
+2019,Southern,Mangochi,Mangochi Monkey Bay,DPP,0.5415205579746445,7,safe
+2019,Southern,Mangochi,Mangochi Nkungulu,DPP,0.3065735063453587,7,safe
+2019,Southern,Mangochi,Mangochi North,DPP,0.3401180857675574,7,safe
+2019,Southern,Mangochi,Mangochi North East,DPP,0.2030626961907186,7,safe
+2019,Southern,Mangochi,Mangochi South,UDF,0.12102586616909966,7,lean
+2019,Southern,Mangochi,Mangochi South West,DPP,0.2839435864795149,7,safe
+2019,Southern,Mangochi,Mangochi West,DPP,0.399527067820487,7,safe
+2019,Southern,Mulanje,Mulanje Bale,DPP,0.8571575219422061,7,safe
+2019,Southern,Mulanje,Mulanje Central,DPP,0.6532147742818057,7,safe
+2019,Southern,Mulanje,Mulanje Limbuli,DPP,0.8904493507302339,7,safe
+2019,Southern,Mulanje,Mulanje North,DPP,0.8018336085644326,7,safe
+2019,Southern,Mulanje,Mulanje Pasani,DPP,0.802861009085637,7,safe
+2019,Southern,Mulanje,Mulanje South,DPP,0.7792619231098552,7,safe
+2019,Southern,Mulanje,Mulanje South East,DPP,0.8769286774383243,7,safe
+2019,Southern,Mulanje,Mulanje South West,DPP,0.7233299804745281,7,safe
+2019,Southern,Mulanje,Mulanje West,DPP,0.6042136605612198,7,safe
+2019,Southern,Mwanza,Mwanza Central,DPP,0.02720653978796783,7,tossup
+2019,Southern,Mwanza,Mwanza West,DPP,0.3553111363500508,7,safe
+2019,Southern,Neno,Neno North,DPP,0.5349493394895473,7,safe
+2019,Southern,Neno,Neno South,DPP,0.5316517206343596,7,safe
+2019,Southern,Nsanje,Nsanje Central,DPP,0.1157871047597615,7,lean
+2019,Southern,Nsanje,Nsanje Lalanje,DPP,0.4238269203397068,7,safe
+2019,Southern,Nsanje,Nsanje North,DPP,0.5618832936372916,7,safe
+2019,Southern,Nsanje,Nsanje South,DPP,0.42520366598778003,7,safe
+2019,Southern,Nsanje,Nsanje South West,DPP,0.5653639108932558,7,safe
+2019,Southern,Phalombe,Phalombe Central,DPP,0.8466389258290078,7,safe
+2019,Southern,Phalombe,Phalombe East,DPP,0.8497715419762772,7,safe
+2019,Southern,Phalombe,Phalombe North,DPP,0.834735257658934,7,safe
+2019,Southern,Phalombe,Phalombe North East,DPP,0.8304058476980144,7,safe
+2019,Southern,Phalombe,Phalombe South,DPP,0.8924552226977334,7,safe
+2019,Southern,Thyolo,Thyolo Central,DPP,0.8324455205811138,7,safe
+2019,Southern,Thyolo,Thyolo East,DPP,0.8952113756804068,7,safe
+2019,Southern,Thyolo,Thyolo North,DPP,0.8320297444965881,7,safe
+2019,Southern,Thyolo,Thyolo South (Thekerani),DPP,0.9351120791360378,7,safe
+2019,Southern,Thyolo,Thyolo South West,DPP,0.9302314106675877,7,safe
+2019,Southern,Thyolo,Thyolo Thava,DPP,0.8891117381106163,7,safe
+2019,Southern,Thyolo,Thyolo West,DPP,0.6441808747220162,7,safe
+2019,Southern,Zomba,Zomba Central/City,DPP,0.06487860892388453,7,tossup
+2019,Southern,Zomba,Zomba Changalume,DPP,0.5446685878962536,7,safe
+2019,Southern,Zomba,Zomba Chingale,DPP,0.29557914382363226,7,safe
+2019,Southern,Zomba,Zomba Chisi,DPP,0.7166609530339391,7,safe
+2019,Southern,Zomba,Zomba Likangala,DPP,0.673842841765339,7,safe
+2019,Southern,Zomba,Zomba Lisanjala,DPP,0.3321434945564876,7,safe
+2019,Southern,Zomba,Zomba Malosa,DPP,0.05309648138207018,7,tossup
+2019,Southern,Zomba,Zomba Nsondole,DPP,0.5568076362190111,7,safe
+2019,Southern,Zomba,Zomba Ntonya,DPP,0.5845448938232443,7,safe
+2019,Southern,Zomba,Zomba Thondwe,DPP,0.5850066520219053,7,safe
+2020,Central,Dedza,Dedza Central,MCP,0.9009670015426873,3,safe
+2020,Central,Dedza,Dedza Central East,MCP,0.9323647012445796,3,safe
+2020,Central,Dedza,Dedza East,MCP,0.6207363797775909,3,safe
+2020,Central,Dedza,Dedza North,MCP,0.6834333179510844,3,safe
+2020,Central,Dedza,Dedza North West,MCP,0.9115355929394215,3,safe
+2020,Central,Dedza,Dedza South,MCP,0.8547624053826745,3,safe
+2020,Central,Dedza,Dedza South West,MCP,0.875063861409131,3,safe
+2020,Central,Dedza,Dedza West,MCP,0.8842173771558737,3,safe
+2020,Central,Dowa,Dowa Central,MCP,0.9062668480911914,3,safe
+2020,Central,Dowa,Dowa East,MCP,0.9420569609536388,3,safe
+2020,Central,Dowa,Dowa Ngala,MCP,0.9176248620554627,3,safe
+2020,Central,Dowa,Dowa North,MCP,0.9462645094787792,3,safe
+2020,Central,Dowa,Dowa North East,MCP,0.9406983841434032,3,safe
+2020,Central,Dowa,Dowa South East,MCP,0.9147229491409716,3,safe
+2020,Central,Dowa,Dowa West,MCP,0.9686264528718079,3,safe
+2020,Central,Kasungu,Kasungu Central,MCP,0.7121470937129301,3,safe
+2020,Central,Kasungu,Kasungu East,MCP,0.8380403076107132,3,safe
+2020,Central,Kasungu,Kasungu North,MCP,0.7030552926862241,3,safe
+2020,Central,Kasungu,Kasungu North East,MCP,0.8259186027352118,3,safe
+2020,Central,Kasungu,Kasungu North North East,MCP,0.7244013308964806,3,safe
+2020,Central,Kasungu,Kasungu North West,MCP,0.7946973378692154,3,safe
+2020,Central,Kasungu,Kasungu South,MCP,0.8905780267832741,3,safe
+2020,Central,Kasungu,Kasungu South East,MCP,0.8578682350949943,3,safe
+2020,Central,Kasungu,Kasungu West,MCP,0.8134946517088443,3,safe
+2020,Central,Lilongwe,Lilongwe Central,MCP,0.7836740344238845,3,safe
+2020,Central,Lilongwe,Lilongwe City Centre,MCP,0.6062011147018874,3,safe
+2020,Central,Lilongwe,Lilongwe City North,MCP,0.9278825728609058,3,safe
+2020,Central,Lilongwe,Lilongwe City South East,MCP,0.5717237230954312,3,safe
+2020,Central,Lilongwe,Lilongwe City South West,MCP,0.5179135562679896,3,safe
+2020,Central,Lilongwe,Lilongwe City West,MCP,0.5111627768338848,3,safe
+2020,Central,Lilongwe,Lilongwe East,MCP,0.9409675060077317,3,safe
+2020,Central,Lilongwe,Lilongwe Kumachenga,MCP,0.8843331894691412,3,safe
+2020,Central,Lilongwe,Lilongwe Mpenu,MCP,0.8941778873506543,3,safe
+2020,Central,Lilongwe,Lilongwe Mpenu Nkhoma,MCP,0.9506335645891864,3,safe
+2020,Central,Lilongwe,Lilongwe Msinja North,MCP,0.8261511104385002,3,safe
+2020,Central,Lilongwe,Lilongwe Msinja South,MCP,0.9218882903317267,3,safe
+2020,Central,Lilongwe,Lilongwe Msozi North,MCP,0.8969850841002857,3,safe
+2020,Central,Lilongwe,Lilongwe Msozi South,MCP,0.9361984483462639,3,safe
+2020,Central,Lilongwe,Lilongwe North,MCP,0.9751060524064732,3,safe
+2020,Central,Lilongwe,Lilongwe North East,MCP,0.9290536467751658,3,safe
+2020,Central,Lilongwe,Lilongwe North West,MCP,0.9763489499192245,3,safe
+2020,Central,Lilongwe,Lilongwe South,MCP,0.9392259821081291,3,safe
+2020,Central,Lilongwe,Lilongwe South East,MCP,0.9298639926233288,3,safe
+2020,Central,Lilongwe,Lilongwe South West,MCP,0.8842512127422242,3,safe
+2020,Central,Lilongwe,Mapuyu North,MCP,0.9704436468920591,3,safe
+2020,Central,Lilongwe,Mapuyu South,MCP,0.9412306706193414,3,safe
+2020,Central,Mchinji,Mchinji Central,MCP,0.7845343410919293,3,safe
+2020,Central,Mchinji,Mchinji East,MCP,0.7999017458997808,3,safe
+2020,Central,Mchinji,Mchinji North,MCP,0.801775950986855,3,safe
+2020,Central,Mchinji,Mchinji North East,MCP,0.6843175010697475,3,safe
+2020,Central,Mchinji,Mchinji South,MCP,0.901477637364814,3,safe
+2020,Central,Mchinji,Mchinji South West,MCP,0.7689293071396273,3,safe
+2020,Central,Nkhotakota,Nkhotakota Central,MCP,0.5795492957746479,3,safe
+2020,Central,Nkhotakota,Nkhotakota North,MCP,0.3738390092879257,3,safe
+2020,Central,Nkhotakota,Nkhotakota North East,MCP,0.2662251655629139,3,safe
+2020,Central,Nkhotakota,Nkhotakota South,MCP,0.653809674359785,3,safe
+2020,Central,Nkhotakota,Nkhotakota South East,MCP,0.7500512610211195,3,safe
+2020,Central,Ntcheu,Ntcheu Bwanje North,MCP,0.6350067842605156,3,safe
+2020,Central,Ntcheu,Ntcheu Bwanje South,MCP,0.07863588421422713,3,tossup
+2020,Central,Ntcheu,Ntcheu Central,MCP,0.6513578644916118,3,safe
+2020,Central,Ntcheu,Ntcheu North,MCP,0.5673854447439353,3,safe
+2020,Central,Ntcheu,Ntcheu North East,MCP,0.7126921917395237,3,safe
+2020,Central,Ntcheu,Ntcheu South,MCP,0.2559151274614563,3,safe
+2020,Central,Ntcheu,Ntcheu West,MCP,0.35828984343637094,3,safe
+2020,Central,Ntchisi,Ntchisi East,MCP,0.90520498505611,3,safe
+2020,Central,Ntchisi,Ntchisi North,MCP,0.9099065420560747,3,safe
+2020,Central,Ntchisi,Ntchisi North East,MCP,0.8560847649418784,3,safe
+2020,Central,Ntchisi,Ntchisi South,MCP,0.9374473715866715,3,safe
+2020,Central,Salima,Salima Central,MCP,0.5669443315725315,3,safe
+2020,Central,Salima,Salima North,MCP,0.8161902618350964,3,safe
+2020,Central,Salima,Salima North West,MCP,0.8007175472928898,3,safe
+2020,Central,Salima,Salima South,MCP,0.24806201550387602,3,safe
+2020,Central,Salima,Salima South East,MCP,0.5301108077726032,3,safe
+2020,Northern,Chitipa,Chitipa Central,MCP,0.7049337046427532,3,safe
+2020,Northern,Chitipa,Chitipa East,MCP,0.7464379452568428,3,safe
+2020,Northern,Chitipa,Chitipa North,MCP,0.6030489012076816,3,safe
+2020,Northern,Chitipa,Chitipa South,MCP,0.7648983407338164,3,safe
+2020,Northern,Chitipa,Chitipa Wenya,MCP,0.7698218080758542,3,safe
+2020,Northern,Karonga,Karonga Central,MCP,0.7386386187735662,3,safe
+2020,Northern,Karonga,Karonga North,MCP,0.468978596586291,3,safe
+2020,Northern,Karonga,Karonga North West,MCP,0.7672044781033915,3,safe
+2020,Northern,Karonga,Karonga Nyungwe,MCP,0.6578838688362105,3,safe
+2020,Northern,Karonga,Karonga South,MCP,0.7625894557153174,3,safe
+2020,Northern,Likoma,Likoma Islands,MCP,0.274214103653356,3,safe
+2020,Northern,Mzimba,Mzimba Central,MCP,0.8813992804196107,3,safe
+2020,Northern,Mzimba,Mzimba East,MCP,0.793929173693086,3,safe
+2020,Northern,Mzimba,Mzimba Hora,MCP,0.832949617176206,3,safe
+2020,Northern,Mzimba,Mzimba Luwerezi,MCP,0.7580958003035925,3,safe
+2020,Northern,Mzimba,Mzimba North,MCP,0.7957004160887656,3,safe
+2020,Northern,Mzimba,Mzimba North East,MCP,0.8606185894887493,3,safe
+2020,Northern,Mzimba,Mzimba Solola,MCP,0.8463574313971305,3,safe
+2020,Northern,Mzimba,Mzimba South,MCP,0.886524576506526,3,safe
+2020,Northern,Mzimba,Mzimba South East,MCP,0.6898199191473724,3,safe
+2020,Northern,Mzimba,Mzimba South West,MCP,0.8465489230124208,3,safe
+2020,Northern,Mzimba,Mzimba West,MCP,0.8551797040169133,3,safe
+2020,Northern,Mzimba,Mzuzu City,MCP,0.8022735048051504,3,safe
+2020,Northern,Nkhatabay,Nkhatabay Central,MCP,0.3034367876556198,3,safe
+2020,Northern,Nkhatabay,Nkhatabay North,MCP,0.6210330633382022,3,safe
+2020,Northern,Nkhatabay,Nkhatabay North West,MCP,0.605672461116194,3,safe
+2020,Northern,Nkhatabay,Nkhatabay South,MCP,0.706896551724138,3,safe
+2020,Northern,Nkhatabay,Nkhatabay South East,MCP,0.6505079308501158,3,safe
+2020,Northern,Nkhatabay,Nkhatabay West,MCP,0.6935090287945339,3,safe
+2020,Northern,Rumphi,Rumphi Central,MCP,0.8271178188899708,3,safe
+2020,Northern,Rumphi,Rumphi East,MCP,0.6454805939046626,3,safe
+2020,Northern,Rumphi,Rumphi North,MCP,0.2420680648382884,3,safe
+2020,Northern,Rumphi,Rumphi West,MCP,0.8986379209492771,3,safe
+2020,Southern,Balaka,Balaka Central East,DPP,0.7188907081457224,3,safe
+2020,Southern,Balaka,Balaka North,DPP,0.5844895340444302,3,safe
+2020,Southern,Balaka,Balaka South,DPP,0.7460643394934976,3,safe
+2020,Southern,Balaka,Balaka West,DPP,0.39498780217343094,3,safe
+2020,Southern,Blantyre,Blantyre Bangwe,DPP,0.22721186527963744,3,safe
+2020,Southern,Blantyre,Blantyre City Centre,MCP,0.1624118024374599,3,lean
+2020,Southern,Blantyre,Blantyre City East,MCP,0.041487493186360636,3,tossup
+2020,Southern,Blantyre,Blantyre City South,MCP,0.26789909100194054,3,safe
+2020,Southern,Blantyre,Blantyre City South East,DPP,0.2128065998560434,3,safe
+2020,Southern,Blantyre,Blantyre City West,MCP,0.2044035032625004,3,safe
+2020,Southern,Blantyre,Blantyre Kabula,MCP,0.051699680834895345,3,tossup
+2020,Southern,Blantyre,Blantyre Malabada,MCP,0.1770597413055513,3,lean
+2020,Southern,Blantyre,Blantyre North,DPP,0.5726681127982646,3,safe
+2020,Southern,Blantyre,Blantyre North East,DPP,0.35577604535790225,3,safe
+2020,Southern,Blantyre,Blantyre Rural East,DPP,0.5408128988915015,3,safe
+2020,Southern,Blantyre,Blantyre South West,DPP,0.45279518997057694,3,safe
+2020,Southern,Blantyre,Blantyre West,DPP,0.5431339465520058,3,safe
+2020,Southern,Chikhwawa,Chikhwawa Central,DPP,0.6343210600948609,3,safe
+2020,Southern,Chikhwawa,Chikhwawa East,DPP,0.6835449907739064,3,safe
+2020,Southern,Chikhwawa,Chikhwawa Mkombezi,DPP,0.32742713357097925,3,safe
+2020,Southern,Chikhwawa,Chikhwawa North,DPP,0.6370319606255063,3,safe
+2020,Southern,Chikhwawa,Chikhwawa South,DPP,0.348448565751261,3,safe
+2020,Southern,Chikhwawa,Chikhwawa West,DPP,0.49548354494346536,3,safe
+2020,Southern,Chiradzulu,Chiradzulu Central,DPP,0.7100765098486082,3,safe
+2020,Southern,Chiradzulu,Chiradzulu East,DPP,0.7910748560460653,3,safe
+2020,Southern,Chiradzulu,Chiradzulu North,DPP,0.6533014692865994,3,safe
+2020,Southern,Chiradzulu,Chiradzulu South,DPP,0.8662067559301299,3,safe
+2020,Southern,Chiradzulu,Chiradzulu West,DPP,0.704543298871289,3,safe
+2020,Southern,Machinga,Machinga Central,DPP,0.8112471515198332,3,safe
+2020,Southern,Machinga,Machinga Central East,DPP,0.8672613148331682,3,safe
+2020,Southern,Machinga,Machinga East,DPP,0.8370944051275203,3,safe
+2020,Southern,Machinga,Machinga Likwenu,DPP,0.6319359718900981,3,safe
+2020,Southern,Machinga,Machinga North East,DPP,0.8167426241304869,3,safe
+2020,Southern,Machinga,Machinga South,DPP,0.8134115286673355,3,safe
+2020,Southern,Machinga,Machinga South East,DPP,0.7330588286828157,3,safe
+2020,Southern,Mangochi,Mangochi Central,DPP,0.5581075295125084,3,safe
+2020,Southern,Mangochi,Mangochi East,DPP,0.8712817445211811,3,safe
+2020,Southern,Mangochi,Mangochi Lutende,DPP,0.9057620308647611,3,safe
+2020,Southern,Mangochi,Mangochi Malombe,DPP,0.8861441944812037,3,safe
+2020,Southern,Mangochi,Mangochi Masongola,DPP,0.8487707844537387,3,safe
+2020,Southern,Mangochi,Mangochi Monkey Bay,DPP,0.3391830408479576,3,safe
+2020,Southern,Mangochi,Mangochi Nkungulu,DPP,0.8426322163907953,3,safe
+2020,Southern,Mangochi,Mangochi North,DPP,0.7369021682747173,3,safe
+2020,Southern,Mangochi,Mangochi North East,DPP,0.8397518610421837,3,safe
+2020,Southern,Mangochi,Mangochi South,DPP,0.75632257768394,3,safe
+2020,Southern,Mangochi,Mangochi South West,DPP,0.6496487119437939,3,safe
+2020,Southern,Mangochi,Mangochi West,DPP,0.32042058660763695,3,safe
+2020,Southern,Mulanje,Mulanje Bale,DPP,0.8776633425971336,3,safe
+2020,Southern,Mulanje,Mulanje Central,DPP,0.7324058527224755,3,safe
+2020,Southern,Mulanje,Mulanje Limbuli,DPP,0.8988880176776677,3,safe
+2020,Southern,Mulanje,Mulanje North,DPP,0.8231484671029968,3,safe
+2020,Southern,Mulanje,Mulanje Pasani,DPP,0.8264408356265261,3,safe
+2020,Southern,Mulanje,Mulanje South,DPP,0.7565686692231217,3,safe
+2020,Southern,Mulanje,Mulanje South East,DPP,0.8606020942408377,3,safe
+2020,Southern,Mulanje,Mulanje South West,DPP,0.7873120417546912,3,safe
+2020,Southern,Mulanje,Mulanje West,DPP,0.6548589525541024,3,safe
+2020,Southern,Mwanza,Mwanza Central,DPP,0.0003542017178783108,3,tossup
+2020,Southern,Mwanza,Mwanza West,DPP,0.255054286783976,3,safe
+2020,Southern,Neno,Neno North,DPP,0.48168599300570586,3,safe
+2020,Southern,Neno,Neno South,DPP,0.5542489460838695,3,safe
+2020,Southern,Nsanje,Nsanje Central,DPP,0.10412677451304064,3,lean
+2020,Southern,Nsanje,Nsanje Lalanje,DPP,0.3083180568285976,3,safe
+2020,Southern,Nsanje,Nsanje North,DPP,0.6181440682853682,3,safe
+2020,Southern,Nsanje,Nsanje South,DPP,0.631008312251536,3,safe
+2020,Southern,Nsanje,Nsanje South West,DPP,0.5715742128935533,3,safe
+2020,Southern,Phalombe,Phalombe Central,DPP,0.8925429581517718,3,safe
+2020,Southern,Phalombe,Phalombe East,DPP,0.917860962566845,3,safe
+2020,Southern,Phalombe,Phalombe North,DPP,0.8658688147295742,3,safe
+2020,Southern,Phalombe,Phalombe North East,DPP,0.9105555256209925,3,safe
+2020,Southern,Phalombe,Phalombe South,DPP,0.9007174816658283,3,safe
+2020,Southern,Thyolo,(Thekerani),DPP,0.9449550206661804,3,safe
+2020,Southern,Thyolo,Thyolo Central,DPP,0.848084613765523,3,safe
+2020,Southern,Thyolo,Thyolo East,DPP,0.8777416417327957,3,safe
+2020,Southern,Thyolo,Thyolo North,DPP,0.8185807584088386,3,safe
+2020,Southern,Thyolo,Thyolo South,DPP,0.9024390243902438,3,safe
+2020,Southern,Thyolo,Thyolo South West,DPP,0.9354002189823086,3,safe
+2020,Southern,Thyolo,Thyolo Thava,DPP,0.8804368579829687,3,safe
+2020,Southern,Thyolo,Thyolo West,DPP,0.6275021144629265,3,safe
+2020,Southern,Zomba,Zomba Central/City,MCP,0.05576738171811285,3,tossup
+2020,Southern,Zomba,Zomba Changalume,DPP,0.6454049029859417,3,safe
+2020,Southern,Zomba,Zomba Chingale,DPP,0.4321048206278027,3,safe
+2020,Southern,Zomba,Zomba Chisi,DPP,0.8111674506689475,3,safe
+2020,Southern,Zomba,Zomba Likangala,DPP,0.7524247491638796,3,safe
+2020,Southern,Zomba,Zomba Lisanjala,DPP,0.6297588200119594,3,safe
+2020,Southern,Zomba,Zomba Malosa,DPP,0.12840161708803477,3,lean
+2020,Southern,Zomba,Zomba Nsondole,DPP,0.721051094890511,3,safe
+2020,Southern,Zomba,Zomba Ntonya,DPP,0.677362443488808,3,safe
+2020,Southern,Zomba,Zomba Thondwe,DPP,0.6642285342760779,3,safe

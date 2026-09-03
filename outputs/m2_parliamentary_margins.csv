@@ -1,0 +1,1130 @@
+year,region,district,constituency,winner_party,margin,n_cand,tier
+1994,Central,Dedza,Dedza Central,MCP,0.7075360264587762,3,safe
+1994,Central,Dedza,Dedza Central-East,MCP,0.6234009053335958,3,safe
+1994,Central,Dedza,Dedza East,UDF,0.2617953811770549,3,safe
+1994,Central,Dedza,Dedza North,MCP,0.17684163099797257,2,lean
+1994,Central,Dedza,Dedza North-West,MCP,0.8645868276864587,3,safe
+1994,Central,Dedza,Dedza South,MCP,0.24109093965372336,3,safe
+1994,Central,Dedza,Dedza South-West,MCP,0.6821955444066177,3,safe
+1994,Central,Dedza,Dedza West,MCP,0.7498481678925704,3,safe
+1994,Central,Dowa,Dowa Central,MCP,0.6828852808091562,4,safe
+1994,Central,Dowa,Dowa East,MCP,0.5931594357199894,3,safe
+1994,Central,Dowa,Dowa Ngala,MCP,0.6614535418583257,3,safe
+1994,Central,Dowa,Dowa North,MCP,0.7155963302752293,3,safe
+1994,Central,Dowa,Dowa North-East,MCP,0.5740711336932359,4,safe
+1994,Central,Dowa,Dowa South-East,MCP,0.5524253336157594,3,safe
+1994,Central,Dowa,Dowa West,MCP,0.6751387383837388,4,safe
+1994,Central,Kasungu,Kasungu Central,MCP,0.3767165402746464,4,safe
+1994,Central,Kasungu,Kasungu East,MCP,0.4816678333916696,3,safe
+1994,Central,Kasungu,Kasungu North,AFORD,0.44969117354054594,3,safe
+1994,Central,Kasungu,Kasungu North-East,MCP,0.6969102501226091,4,safe
+1994,Central,Kasungu,Kasungu North-North-East,AFORD,0.04637900233612752,3,tossup
+1994,Central,Kasungu,Kasungu North-West,MCP,0.10458049214349247,3,lean
+1994,Central,Kasungu,Kasungu South,MCP,0.703582694907616,3,safe
+1994,Central,Kasungu,Kasungu South-East,MCP,0.4906107926467681,4,safe
+1994,Central,Kasungu,Kasungu West,MCP,0.5999388285670592,5,safe
+1994,Central,Lilongwe,Lilongwe Central,MCP,0.668392249667209,3,safe
+1994,Central,Lilongwe,Lilongwe City Central,UDF,0.2695088116916103,3,safe
+1994,Central,Lilongwe,Lilongwe City North,MCP,0.7328909166321028,3,safe
+1994,Central,Lilongwe,Lilongwe City South,UDF,0.3311008637095594,3,safe
+1994,Central,Lilongwe,Lilongwe City West,UDF,0.3420848622667838,3,safe
+1994,Central,Lilongwe,Lilongwe East,MCP,0.9522447812410637,3,safe
+1994,Central,Lilongwe,Lilongwe Kumachenga,MCP,0.48173728250763714,3,safe
+1994,Central,Lilongwe,Lilongwe Mpenu,MCP,0.8799498746867167,2,safe
+1994,Central,Lilongwe,Lilongwe Msinja,MCP,0.8290028567541831,3,safe
+1994,Central,Lilongwe,Lilongwe Msozi,MCP,0.799715546478976,3,safe
+1994,Central,Lilongwe,Lilongwe North,MCP,0.6114931049053125,4,safe
+1994,Central,Lilongwe,Lilongwe North-East,MCP,0.7770780200905636,3,safe
+1994,Central,Lilongwe,Lilongwe North-West,MCP,0.6215565256661147,3,safe
+1994,Central,Lilongwe,Lilongwe South,MCP,0.7672955974842768,3,safe
+1994,Central,Lilongwe,Lilongwe South-East,MCP,0.8240445859872612,3,safe
+1994,Central,Lilongwe,Lilongwe South-West,MCP,0.5146434356257934,3,safe
+1994,Central,Lilongwe,Lilongwe West,MCP,0.7070960935803159,3,safe
+1994,Central,Mchinji,Mchinji East,MCP,0.45957500314346783,4,safe
+1994,Central,Mchinji,Mchinji North,MCP,0.4737325407181867,4,safe
+1994,Central,Mchinji,Mchinji North-East,MCP,0.6201020971302429,3,safe
+1994,Central,Mchinji,Mchinji South,MCP,0.5773567282673961,3,safe
+1994,Central,Mchinji,Mchinji South-West,MCP,0.3653092520020446,3,safe
+1994,Central,Mchinji,Mchinji West,MCP,0.1569687334393216,3,lean
+1994,Central,Nkhotakota,Nkhotakota Central,UDF,0.10126582278481017,2,lean
+1994,Central,Nkhotakota,Nkhotakota North,AFORD,0.006087770939256054,5,tossup
+1994,Central,Nkhotakota,Nkhotakota North-East,UDF,0.029901914103418747,3,tossup
+1994,Central,Nkhotakota,Nkhotakota South,MCP,0.07491240754129364,2,tossup
+1994,Central,Nkhotakota,Nkhotakota South-East,MCP,0.2424633694492786,2,safe
+1994,Central,Ntcheu,Ntcheu Bwanje North,UDF,0.5604706583258863,4,safe
+1994,Central,Ntcheu,Ntcheu Bwanje South,UDF,0.6888128209117784,3,safe
+1994,Central,Ntcheu,Ntcheu Central,UDF,0.6196860318551621,4,safe
+1994,Central,Ntcheu,Ntcheu North,MCP,0.12316887378413216,3,lean
+1994,Central,Ntcheu,Ntcheu North-East,UDF,0.38640665328362495,3,safe
+1994,Central,Ntcheu,Ntcheu South,UDF,0.49974738361602306,3,safe
+1994,Central,Ntcheu,Ntcheu West,UDF,0.45356622998544394,5,safe
+1994,Central,Ntchisi,Ntchisi East,MCP,0.38617785484270495,3,safe
+1994,Central,Ntchisi,Ntchisi North,MCP,0.09153403571695434,3,tossup
+1994,Central,Ntchisi,Ntchisi North-East,MCP,0.2067065868263473,3,safe
+1994,Central,Ntchisi,Ntchisi South,MCP,0.4930882898151582,3,safe
+1994,Central,Salima,Salima Central,UDF,0.20292309391451607,4,safe
+1994,Central,Salima,Salima North,MCP,0.5560370066752547,3,safe
+1994,Central,Salima,Salima North-West,MCP,0.341960156527926,3,safe
+1994,Central,Salima,Salima South,UDF,0.20141196013289037,3,safe
+1994,Central,Salima,Salima South-East,MCP,0.017972812699571183,3,tossup
+1994,Northern,Chitipa,Chitipa Central,AFORD,0.7660815161270729,4,safe
+1994,Northern,Chitipa,Chitipa East,AFORD,0.8345078979343864,4,safe
+1994,Northern,Chitipa,Chitipa North,AFORD,0.610929472209248,3,safe
+1994,Northern,Chitipa,Chitipa South,AFORD,0.8541370486209838,3,safe
+1994,Northern,Chitipa,Chitipa Wenya,AFORD,0.8970959595959596,4,safe
+1994,Northern,Karonga,Karonga Central,AFORD,0.7769484464502691,6,safe
+1994,Northern,Karonga,Karonga North,AFORD,0.8193634879925391,4,safe
+1994,Northern,Karonga,Karonga North-West,AFORD,0.8182595245848258,4,safe
+1994,Northern,Karonga,Karonga Nyungwe,AFORD,0.8049473684210526,4,safe
+1994,Northern,Karonga,Karonga South,AFORD,0.7567547505938241,4,safe
+1994,Northern,Mzimba,Mzimba Central,AFORD,0.7912030925891005,3,safe
+1994,Northern,Mzimba,Mzimba East,AFORD,0.7954907486827595,3,safe
+1994,Northern,Mzimba,Mzimba Hora,AFORD,0.8740936703899667,4,safe
+1994,Northern,Mzimba,Mzimba Luwerezi,AFORD,0.7897590006481645,4,safe
+1994,Northern,Mzimba,Mzimba North,AFORD,0.5689604361600236,4,safe
+1994,Northern,Mzimba,Mzimba North-East,AFORD,0.8491510086762123,3,safe
+1994,Northern,Mzimba,Mzimba Solora,AFORD,0.8279553211293826,5,safe
+1994,Northern,Mzimba,Mzimba South,AFORD,0.8807226802315383,5,safe
+1994,Northern,Mzimba,Mzimba South-East,AFORD,0.635989010989011,3,safe
+1994,Northern,Mzimba,Mzimba South-West,AFORD,0.8313151589717024,3,safe
+1994,Northern,Mzimba,Mzimba West,AFORD,0.6351908940004742,3,safe
+1994,Northern,Mzimba,Mzuzu City,AFORD,0.722990990990991,4,safe
+1994,Northern,Nkhata Bay,Nkhata Bay Central,AFORD,0.6854850265080957,4,safe
+1994,Northern,Nkhata Bay,Nkhata Bay North-West,AFORD,0.6829934988179669,4,safe
+1994,Northern,Nkhata Bay,Nkhata Bay South,AFORD,0.4691113313511728,4,safe
+1994,Northern,Nkhata Bay,Nkhata Bay South-East,AFORD,0.8056053811659194,3,safe
+1994,Northern,Nkhata Bay,Nkhata Bay West,AFORD,0.6381340579710145,3,safe
+1994,Northern,Nkhata Bay,Nkhatabay East,AFORD,0.29062177945723117,4,safe
+1994,Northern,Nkhata Bay,Nkhatabay North,AFORD,0.5971943887775552,5,safe
+1994,Northern,Rumphi,Rumphi Central,AFORD,0.7984923946695383,4,safe
+1994,Northern,Rumphi,Rumphi East,AFORD,0.8686910135412392,3,safe
+1994,Northern,Rumphi,Rumphi North,AFORD,0.9013150973172015,4,safe
+1994,Northern,Rumphi,Rumphi West,AFORD,0.7723247232472324,5,safe
+1994,Southern,Blantyre,Blantyre City South-East,UDF,0.7067685589519651,5,safe
+1994,Southern,Blantyre,Blantyre City-Central,UDF,0.6353934432221044,4,safe
+1994,Southern,Blantyre,Blantyre City-East,UDF,0.6454793869549721,3,safe
+1994,Southern,Blantyre,Blantyre City-South,UDF,0.5234819148059653,3,safe
+1994,Southern,Blantyre,Blantyre City-West,UDF,0.6706195941902845,5,safe
+1994,Southern,Blantyre,Blantyre North,UDF,0.7302038295243978,4,safe
+1994,Southern,Blantyre,Blantyre North-East,UDF,0.6285046728971962,4,safe
+1994,Southern,Blantyre,Blantyre Rural-East,UDF,0.4630488406512087,3,safe
+1994,Southern,Blantyre,Blantyre South-West,UDF,0.43254310344827585,4,safe
+1994,Southern,Blantyre,Blantyre West,UDF,0.42545109211775883,4,safe
+1994,Southern,Chikwawa,Chikwawa Central,UDF,0.3212267250821467,4,safe
+1994,Southern,Chikwawa,Chikwawa East,MCP,0.09729166666666661,3,tossup
+1994,Southern,Chikwawa,Chikwawa Nkombezi,UDF,0.3074888808751052,4,safe
+1994,Southern,Chikwawa,Chikwawa North,UDF,0.2908805031446541,3,safe
+1994,Southern,Chikwawa,Chikwawa South,UDF,0.043892828999211986,4,tossup
+1994,Southern,Chikwawa,Chikwawa West,UDF,0.18035296961882502,3,lean
+1994,Southern,Chiradzulu,Chiradzulu Central,UDF,0.8407545184684176,4,safe
+1994,Southern,Chiradzulu,Chiradzulu East,UDF,0.7363597307747386,3,safe
+1994,Southern,Chiradzulu,Chiradzulu North,UDF,0.7501827040194885,3,safe
+1994,Southern,Chiradzulu,Chiradzulu South,UDF,0.7147262569832402,4,safe
+1994,Southern,Chiradzulu,Chiradzulu West,UDF,0.7801558339086695,4,safe
+1994,Southern,Machinga,Machinga Central,UDF,0.8821656050955413,2,safe
+1994,Southern,Machinga,Machinga Central-East,UDF,0.8458005249343832,2,safe
+1994,Southern,Machinga,Machinga East,UDF,0.8821583923500018,2,safe
+1994,Southern,Machinga,Machinga Likwenu,UDF,0.693439414030435,3,safe
+1994,Southern,Machinga,Machinga North,UDF,0.7981766804859436,4,safe
+1994,Southern,Machinga,Machinga North-East,UDF,0.8959776651845723,2,safe
+1994,Southern,Machinga,Machinga Riviridzi,UDF,0.8304924713014958,3,safe
+1994,Southern,Machinga,Machinga South,UDF,0.8311014395714764,2,safe
+1994,Southern,Machinga,Machinga South-East,UDF,0.9261705496494006,2,safe
+1994,Southern,Machinga,Machinga West,UDF,0.6997372262773722,3,safe
+1994,Southern,Mulanje,Mulanje Bale,UDF,0.492921878510973,4,safe
+1994,Southern,Mulanje,Mulanje Central,UDF,0.6871659496806153,3,safe
+1994,Southern,Mulanje,Mulanje East,UDF,0.04608429342277964,4,tossup
+1994,Southern,Mulanje,Mulanje Limbuli,UDF,0.11080746958162535,5,lean
+1994,Southern,Mulanje,Mulanje North,UDF,0.37153602533650043,3,safe
+1994,Southern,Mulanje,Mulanje North-East,UDF,0.35938945420906565,3,safe
+1994,Southern,Mulanje,Mulanje North-West,UDF,0.5150463865284166,4,safe
+1994,Southern,Mulanje,Mulanje South,UDF,0.31530508575868044,3,safe
+1994,Southern,Mulanje,Mulanje South-East,UDF,0.3085781331479228,3,safe
+1994,Southern,Mulanje,Mulanje South-West,UDF,0.6805344670513209,3,safe
+1994,Southern,Mulanje,Mulanje West,UDF,0.601331135128534,3,safe
+1994,Southern,Mwanza,Mwanza Central,UDF,0.5665952890792292,3,safe
+1994,Southern,Mwanza,Mwanza East,UDF,0.44432220039292736,3,safe
+1994,Southern,Mwanza,Mwanza North,UDF,0.2774803149606299,3,safe
+1994,Southern,Mwanza,Mwanza West,UDF,0.46704628059122855,4,safe
+1994,Southern,Nsanje,Nsanje Central,MCP,0.0971363115693013,2,tossup
+1994,Southern,Nsanje,Nsanje Lalanje,MCP,0.2093074065982084,3,safe
+1994,Southern,Nsanje,Nsanje North,MCP,0.17986143187066972,2,lean
+1994,Southern,Nsanje,Nsanje South,MCP,0.029012460479821423,2,tossup
+1994,Southern,Nsanje,Nsanje South-West,UDF,0.18711484593837535,2,lean
+1994,Southern,Ntcheu,Mangochi Central,UDF,0.7649840077875121,3,safe
+1994,Southern,Ntcheu,Mangochi East,UDF,0.8746596972666885,3,safe
+1994,Southern,Ntcheu,Mangochi Lutende,UDF,0.8520047810496577,3,safe
+1994,Southern,Ntcheu,Mangochi Masongola,UDF,0.8557276246868595,3,safe
+1994,Southern,Ntcheu,Mangochi Monkey Bay,UDF,0.6063789393747626,4,safe
+1994,Southern,Ntcheu,Mangochi North,UDF,0.7693628124141719,3,safe
+1994,Southern,Ntcheu,Mangochi North-East,UDF,0.6755031312701404,4,safe
+1994,Southern,Ntcheu,Mangochi South,UDF,0.8713482885142353,3,safe
+1994,Southern,Ntcheu,Mangochi South-West,UDF,0.6747159704522874,3,safe
+1994,Southern,Ntcheu,Mangochi West,UDF,0.6607935440484196,4,safe
+1994,Southern,Thyolo,Thyolo Central,UDF,0.5645271891928958,4,safe
+1994,Southern,Thyolo,Thyolo East,UDF,0.5543449516052256,3,safe
+1994,Southern,Thyolo,Thyolo North,UDF,0.5566905005107252,3,safe
+1994,Southern,Thyolo,Thyolo South,UDF,0.2996392176720046,3,safe
+1994,Southern,Thyolo,Thyolo South-West,UDF,0.604837364470392,4,safe
+1994,Southern,Thyolo,Thyolo Thava,UDF,0.49668372181163534,4,safe
+1994,Southern,Thyolo,Thyolo West,UDF,0.12693772699087608,3,lean
+1994,Southern,Zomba,Zomba Central,UDF,0.4567255161308873,7,safe
+1994,Southern,Zomba,Zomba East,UDF,0.6902631316323475,4,safe
+1994,Southern,Zomba,Zomba North,UDF,0.7994921962512135,3,safe
+1994,Southern,Zomba,Zomba North-East,UDF,0.7852274616279713,2,safe
+1994,Southern,Zomba,Zomba North-West,UDF,0.6443723194621537,4,safe
+1994,Southern,Zomba,Zomba South,UDF,0.7088200705605645,3,safe
+1994,Southern,Zomba,Zomba South-West,UDF,0.73749849137064,4,safe
+1994,Southern,Zomba,Zomba West,UDF,0.75924955455403,6,safe
+1999,Central,Dedza,Dedza Central,MCP,0.5350492675433667,2,safe
+1999,Central,Dedza,Dedza Central-East,MCP,0.5136314067611778,2,safe
+1999,Central,Dedza,Dedza East,UDF,0.10888261448090092,2,lean
+1999,Central,Dedza,Dedza North,MCP,0.06520679440548949,2,tossup
+1999,Central,Dedza,Dedza North-West,MCP,0.6383206862421642,2,safe
+1999,Central,Dedza,Dedza South,MCP,0.24327384615384617,2,safe
+1999,Central,Dedza,Dedza South-West,MCP,0.4127506984113747,2,safe
+1999,Central,Dedza,Dedza West,MCP,0.6130386270655119,3,safe
+1999,Central,Dowa,Dowa Central,MCP,0.3880005977286312,3,safe
+1999,Central,Dowa,Dowa East,MCP,0.7142328336109569,4,safe
+1999,Central,Dowa,Dowa Ngala,MCP,0.43056992674144284,2,safe
+1999,Central,Dowa,Dowa North,MCP,0.4505273136627563,2,safe
+1999,Central,Dowa,Dowa North-East,MCP,0.2640709145498737,4,safe
+1999,Central,Dowa,Dowa South-East,MCP,0.3915797605252994,5,safe
+1999,Central,Dowa,Dowa West,MCP,0.36572835277748045,2,safe
+1999,Central,Kasungu,Kasungu Central,MCP,0.29728638847491307,6,safe
+1999,Central,Kasungu,Kasungu East,MCP,0.36052413693797475,2,safe
+1999,Central,Kasungu,Kasungu North,MCP,0.05653092006033178,5,tossup
+1999,Central,Kasungu,Kasungu North-East,MCP,0.37631277027623333,3,safe
+1999,Central,Kasungu,Kasungu North-North-East,AFORD,0.18636785880167211,4,lean
+1999,Central,Kasungu,Kasungu North-West,MCP,0.5353686474355976,4,safe
+1999,Central,Kasungu,Kasungu South,MCP,0.4897530656811691,2,safe
+1999,Central,Kasungu,Kasungu South-East,MCP,0.35022354694485847,2,safe
+1999,Central,Kasungu,Kasungu West,MCP,0.4875483709898889,3,safe
+1999,Central,Lilongwe,Lilongwe Central,MCP,0.5944225522885722,2,safe
+1999,Central,Lilongwe,Lilongwe City North,MCP,0.5052467068542086,4,safe
+1999,Central,Lilongwe,Lilongwe City South-East,MCP,0.05620935891809947,4,tossup
+1999,Central,Lilongwe,Lilongwe City South-West,MCP,0.0021376162689930034,4,tossup
+1999,Central,Lilongwe,Lilongwe City-Central,UDF,0.045359015219751,5,tossup
+1999,Central,Lilongwe,Lilongwe City-West,UDF,0.022114252798717704,3,tossup
+1999,Central,Lilongwe,Lilongwe East,MCP,0.7219658514074758,2,safe
+1999,Central,Lilongwe,Lilongwe Kumachenga,MCP,0.46248366013071895,3,safe
+1999,Central,Lilongwe,Lilongwe Mapuyu North,MCP,0.551413684775113,3,safe
+1999,Central,Lilongwe,Lilongwe Mapuyu South,MCP,0.5744427662593254,2,safe
+1999,Central,Lilongwe,Lilongwe Mpenu,MCP,0.6750014639573696,2,safe
+1999,Central,Lilongwe,Lilongwe Mpenu Nkhoma,MCP,0.8259800304953027,2,safe
+1999,Central,Lilongwe,Lilongwe Msinja North,MCP,0.6963137505491432,2,safe
+1999,Central,Lilongwe,Lilongwe Msinja South,MCP,0.704856843734353,2,safe
+1999,Central,Lilongwe,Lilongwe Msozi North,MCP,0.7326781869375587,2,safe
+1999,Central,Lilongwe,Lilongwe Msozi South,MCP,0.7651188977942638,2,safe
+1999,Central,Lilongwe,Lilongwe North,MCP,0.40591076585997404,3,safe
+1999,Central,Lilongwe,Lilongwe North-East,MCP,0.7091593668357155,2,safe
+1999,Central,Lilongwe,Lilongwe North-West,MCP,0.3366616541353384,2,safe
+1999,Central,Lilongwe,Lilongwe South,MCP,0.6665155864430679,2,safe
+1999,Central,Lilongwe,Lilongwe South-East,MCP,0.5513432086367059,3,safe
+1999,Central,Lilongwe,Lilongwe South-West,MCP,0.4694360936503599,2,safe
+1999,Central,Mchinji,Mchinji East,MCP,0.17657807308970097,4,lean
+1999,Central,Mchinji,Mchinji North,MCP,0.2836008706298463,3,safe
+1999,Central,Mchinji,Mchinji North-East,MCP,0.30383364541243724,3,safe
+1999,Central,Mchinji,Mchinji South,MCP,0.39007555265367033,3,safe
+1999,Central,Mchinji,Mchinji South-West,MCP,0.018161118941775967,4,tossup
+1999,Central,Nkhotakota,Nkhotakota Central,UDF,0.316044104410441,5,safe
+1999,Central,Nkhotakota,Nkhotakota North,UDF,0.058262583993884065,4,tossup
+1999,Central,Nkhotakota,Nkhotakota North-East,MCP,0.06747587924058512,6,tossup
+1999,Central,Nkhotakota,Nkhotakota South,UDF,0.2204831973771516,4,safe
+1999,Central,Nkhotakota,Nkhotakota South-East,MCP,0.16057572936064557,4,lean
+1999,Central,Ntcheu,Ntcheu Bwanje North,UDF,0.7578812229565879,2,safe
+1999,Central,Ntcheu,Ntcheu Bwanje South,UDF,0.3282232500129917,4,safe
+1999,Central,Ntcheu,Ntcheu Central,UDF,0.6441115220837348,4,safe
+1999,Central,Ntcheu,Ntcheu North,UDF,0.18108710965015262,3,lean
+1999,Central,Ntcheu,Ntcheu North-East,UDF,0.4380096751900484,5,safe
+1999,Central,Ntcheu,Ntcheu South,IND,0.26001542813062484,5,safe
+1999,Central,Ntcheu,Ntcheu West,UDF,0.3245772018449374,4,safe
+1999,Central,Ntchisi,Ntchisi East,MCP,0.10072689511941851,3,lean
+1999,Central,Ntchisi,Ntchisi North,MCP,0.15095375325922877,3,lean
+1999,Central,Ntchisi,Ntchisi North-East,UDF,0.27911881884227796,2,safe
+1999,Central,Ntchisi,Ntchisi South,MCP,0.23372465314834584,3,safe
+1999,Central,Salima,Salima Central,UDF,0.09543760504713417,3,tossup
+1999,Central,Salima,Salima North,MCP,0.22264477095937774,2,safe
+1999,Central,Salima,Salima North-West,MCP,0.14037045302387857,2,lean
+1999,Central,Salima,Salima South,UDF,0.294348557542526,3,safe
+1999,Central,Salima,Salima South-East,UDF,0.12010940658817937,2,lean
+1999,Northern,Chitipa,Chitipa Central,AFORD,0.41848761183757743,4,safe
+1999,Northern,Chitipa,Chitipa East,MCP,0.059784661881375156,3,tossup
+1999,Northern,Chitipa,Chitipa North,AFORD,0.49415985953126196,3,safe
+1999,Northern,Chitipa,Chitipa South,AFORD,0.8280442804428045,2,safe
+1999,Northern,Chitipa,Chitipa Wenya,AFORD,0.10834976988823147,3,lean
+1999,Northern,Karonga,Karonga Central,AFORD,0.5893428732818679,3,safe
+1999,Northern,Karonga,Karonga North,AFORD,0.5359272933825617,3,safe
+1999,Northern,Karonga,Karonga North-West,AFORD,0.5721488517337844,4,safe
+1999,Northern,Karonga,Karonga Nyungwe,AFORD,0.6361542005836278,3,safe
+1999,Northern,Karonga,Karonga South,AFORD,0.6731926863572433,3,safe
+1999,Northern,Mzimba,Mzimba Central,AFORD,0.1827336582568807,4,lean
+1999,Northern,Mzimba,Mzimba East,AFORD,0.434972512990436,3,safe
+1999,Northern,Mzimba,Mzimba Hora,AFORD,0.30602069223417955,6,safe
+1999,Northern,Mzimba,Mzimba Luwerezi,AFORD,0.044926085617493006,3,tossup
+1999,Northern,Mzimba,Mzimba North,AFORD,0.3692992213570634,4,safe
+1999,Northern,Mzimba,Mzimba North-East,AFORD,0.3210001689474573,4,safe
+1999,Northern,Mzimba,Mzimba Solora,AFORD,0.3954550253378378,5,safe
+1999,Northern,Mzimba,Mzimba South,AFORD,0.18747164543709643,5,lean
+1999,Northern,Mzimba,Mzimba South-East,MCP,0.15073225685317315,5,lean
+1999,Northern,Mzimba,Mzimba South-West,AFORD,0.23645006370675292,3,safe
+1999,Northern,Mzimba,Mzimba West,AFORD,0.6090771423481205,3,safe
+1999,Northern,Mzimba,Mzuzu City,AFORD,0.7039267280639612,3,safe
+1999,Northern,Nkhata Bay,Nkhata Bay Central,AFORD,0.017922309626145494,4,tossup
+1999,Northern,Nkhata Bay,Nkhata Bay North-West,MCP,0.024954018988914806,3,tossup
+1999,Northern,Nkhata Bay,Nkhata Bay South,AFORD,0.09712504329754074,3,tossup
+1999,Northern,Nkhata Bay,Nkhata Bay South-East,MCP,0.18874566724436737,4,lean
+1999,Northern,Nkhata Bay,Nkhata Bay West,AFORD,0.26508457460237317,4,safe
+1999,Northern,Nkhata Bay,Nkhatabay East,UDF,0.020570840833119053,3,tossup
+1999,Northern,Nkhata Bay,Nkhatabay North,AFORD,0.181264982482021,4,lean
+1999,Northern,Rumphi,Rumphi Central,AFORD,0.7847589982945875,2,safe
+1999,Northern,Rumphi,Rumphi East,AFORD,0.5914976262408287,2,safe
+1999,Northern,Rumphi,Rumphi North,AFORD,0.7659441270834964,3,safe
+1999,Northern,Rumphi,Rumphi West,AFORD,0.7269353850343842,5,safe
+1999,Southern,Balaka,Balaka Central-East,UDF,0.8139546473959631,2,safe
+1999,Southern,Balaka,Balaka North,UDF,0.7620832032198744,3,safe
+1999,Southern,Balaka,Balaka South,UDF,0.2954776901897183,5,safe
+1999,Southern,Balaka,Balaka West,UDF,0.484486689076929,5,safe
+1999,Southern,Balaka,Machinga Central,UDF,0.5003356241010068,5,safe
+1999,Southern,Balaka,Machinga Central East,UDF,0.9025471274685817,3,safe
+1999,Southern,Balaka,Machinga East,UDF,0.6238822863610639,3,safe
+1999,Southern,Balaka,Machinga Likwenu,UDF,0.43018614039022196,5,safe
+1999,Southern,Balaka,Machinga North-East,UDF,0.883068172450746,3,safe
+1999,Southern,Balaka,Machinga South,UDF,0.5042351453855879,4,safe
+1999,Southern,Balaka,Machinga South-East,UDF,0.5578782172002511,3,safe
+1999,Southern,Blantyre,Blantyre Bangwe,UDF,0.33216065669891526,4,safe
+1999,Southern,Blantyre,Blantyre City South-East,UDF,0.5374776509420988,4,safe
+1999,Southern,Blantyre,Blantyre City-Central,UDF,0.241220086134174,6,safe
+1999,Southern,Blantyre,Blantyre City-East,UDF,0.38315333455366407,3,safe
+1999,Southern,Blantyre,Blantyre City-South,UDF,0.2774874527862575,7,safe
+1999,Southern,Blantyre,Blantyre City-West,UDF,0.17707138857036187,3,lean
+1999,Southern,Blantyre,Blantyre Kabula,UDF,0.49894057437167916,8,safe
+1999,Southern,Blantyre,Blantyre Malabada,UDF,0.39261642822976905,5,safe
+1999,Southern,Blantyre,Blantyre North,UDF,0.5954926544111991,5,safe
+1999,Southern,Blantyre,Blantyre North-East,UDF,0.5284543592078307,5,safe
+1999,Southern,Blantyre,Blantyre Rural-East,UDF,0.43440330314331377,3,safe
+1999,Southern,Blantyre,Blantyre South-West,UDF,0.2509821231516221,7,safe
+1999,Southern,Blantyre,Blantyre West,UDF,0.44589966799989544,6,safe
+1999,Southern,Chikwawa,Chikwawa Central,UDF,0.027916709196692813,2,tossup
+1999,Southern,Chikwawa,Chikwawa East,MCP,0.29310954758067687,3,safe
+1999,Southern,Chikwawa,Chikwawa Mkombezi,MCP,0.08929558011049726,2,tossup
+1999,Southern,Chikwawa,Chikwawa North,UDF,0.022987884032886208,3,tossup
+1999,Southern,Chikwawa,Chikwawa South,MCP,0.15225684770028725,3,lean
+1999,Southern,Chikwawa,Chikwawa West,UDF,0.12790947812244546,2,lean
+1999,Southern,Chiradzulu,Chiradzulu Central,UDF,0.7670540275829207,2,safe
+1999,Southern,Chiradzulu,Chiradzulu East,UDF,0.32225273401744,6,safe
+1999,Southern,Chiradzulu,Chiradzulu North,UDF,0.652385349338258,4,safe
+1999,Southern,Chiradzulu,Chiradzulu South,UDF,0.6380058039062246,5,safe
+1999,Southern,Chiradzulu,Chiradzulu West,UDF,0.04723050368743137,3,tossup
+1999,Southern,Mangochi,Mangochi Central,UDF,0.727369363321025,2,safe
+1999,Southern,Mangochi,Mangochi East,UDF,0.8265492606745306,2,safe
+1999,Southern,Mangochi,Mangochi Lutende,IND,0.17274114256653667,2,lean
+1999,Southern,Mangochi,Mangochi Malombe,UDF,0.8516021639617146,2,safe
+1999,Southern,Mangochi,Mangochi Masongola,UDF,0.5340243002989014,4,safe
+1999,Southern,Mangochi,Mangochi Monkey Bay,UDF,0.26453260824784736,4,safe
+1999,Southern,Mangochi,Mangochi Nkungulu,UDF,0.8231231900200491,2,safe
+1999,Southern,Mangochi,Mangochi North,UDF,0.7942617767941826,2,safe
+1999,Southern,Mangochi,Mangochi North-East,UDF,0.7663038548752835,4,safe
+1999,Southern,Mangochi,Mangochi South,UDF,0.6731126943459798,4,safe
+1999,Southern,Mangochi,Mangochi South-West,UDF,0.5762462497115163,4,safe
+1999,Southern,Mangochi,Mangochi West,UDF,0.1361055534526578,3,lean
+1999,Southern,Mulanje,Mulanje Bale,UDF,0.599590286372754,4,safe
+1999,Southern,Mulanje,Mulanje Central,UDF,0.6288510679330794,3,safe
+1999,Southern,Mulanje,Mulanje Limbuli,UDF,0.1526007854452192,5,lean
+1999,Southern,Mulanje,Mulanje North,UDF,0.7004821600771456,3,safe
+1999,Southern,Mulanje,Mulanje Pasani,UDF,0.7627340308370043,4,safe
+1999,Southern,Mulanje,Mulanje South,UDF,0.4272068663190438,3,safe
+1999,Southern,Mulanje,Mulanje South-East,UDF,0.4200546891433036,6,safe
+1999,Southern,Mulanje,Mulanje South-West,UDF,0.4888970117883578,4,safe
+1999,Southern,Mulanje,Mulanje West,UDF,0.5834049460517522,4,safe
+1999,Southern,Mwanza,Mwanza Central,UDF,0.548755787037037,2,safe
+1999,Southern,Mwanza,Mwanza East,UDF,0.4746153484213993,3,safe
+1999,Southern,Mwanza,Mwanza North,UDF,0.1710694360422128,5,lean
+1999,Southern,Mwanza,Mwanza West,UDF,0.5168185473063522,5,safe
+1999,Southern,Nsanje,Nsanje Central,MCP,0.1125063419583967,2,lean
+1999,Southern,Nsanje,Nsanje Lalanje,MCP,0.3914371058745436,2,safe
+1999,Southern,Nsanje,Nsanje North,MCP,0.2530894934588746,2,safe
+1999,Southern,Nsanje,Nsanje South,MCP,0.22670952659263593,3,safe
+1999,Southern,Nsanje,Nsanje South-West,MCP,0.50451829539282,2,safe
+1999,Southern,Phalombe,Phalombe Central,UDF,0.6442643085237042,5,safe
+1999,Southern,Phalombe,Phalombe East,UDF,0.7585843901949973,3,safe
+1999,Southern,Phalombe,Phalombe North,IND,0.2531874203144921,5,safe
+1999,Southern,Phalombe,Phalombe North-East,UDF,0.6855731561914495,2,safe
+1999,Southern,Phalombe,Phalombe South,UDF,0.0716256610715107,5,tossup
+1999,Southern,Thyolo,Thyolo Central,UDF,0.6779398617561763,3,safe
+1999,Southern,Thyolo,Thyolo East,UDF,0.658404819592692,5,safe
+1999,Southern,Thyolo,Thyolo North,UDF,0.5899205748865356,4,safe
+1999,Southern,Thyolo,Thyolo South,UDF,0.47080002880391736,4,safe
+1999,Southern,Thyolo,Thyolo South-West,IND,0.23198153967007068,3,safe
+1999,Southern,Thyolo,Thyolo Thava,UDF,0.5694170545081644,3,safe
+1999,Southern,Thyolo,Thyolo West,UDF,0.2849593066272064,6,safe
+1999,Southern,Zomba,Zomba Central,UDF,0.3768005790807094,5,safe
+1999,Southern,Zomba,Zomba Changalume,UDF,0.5102240535668299,4,safe
+1999,Southern,Zomba,Zomba Chingale,UDF,0.7594997385393063,3,safe
+1999,Southern,Zomba,Zomba Chisi / Mpyupyu,UDF,0.558875303297017,4,safe
+1999,Southern,Zomba,Zomba Domasi / Nsondole,UDF,0.5380562477750088,3,safe
+1999,Southern,Zomba,Zomba Likangala,UDF,0.575409615901155,5,safe
+1999,Southern,Zomba,Zomba Lisanjala,UDF,0.6855744973625869,3,safe
+1999,Southern,Zomba,Zomba Malosa,UDF,0.6743039298700004,5,safe
+1999,Southern,Zomba,Zomba Ntonya,UDF,0.6345392201164243,8,safe
+1999,Southern,Zomba,Zomba Thondwe,UDF,0.6605306755726195,3,safe
+2004,Central,Dedza,Dedza Central,MCP,0.3573179831574459,6,safe
+2004,Central,Dedza,Dedza Central-East,MCP,0.5143722652305621,5,safe
+2004,Central,Dedza,Dedza East,MCP,0.22889259768309445,7,safe
+2004,Central,Dedza,Dedza North,MCP,0.14681368742558365,5,lean
+2004,Central,Dedza,Dedza North-West,MCP,0.479755538579068,5,safe
+2004,Central,Dedza,Dedza South,MCP,0.45592098699743944,5,safe
+2004,Central,Dedza,Dedza South-West,MCP,0.03856251093868501,6,tossup
+2004,Central,Dedza,Dedza West,MCP,0.5538390592575513,5,safe
+2004,Central,Dowa,Dowa Central,MCP,0.4208768095022064,6,safe
+2004,Central,Dowa,Dowa East,MCP,0.26646449619499923,6,safe
+2004,Central,Dowa,Dowa Ngala,MCP,0.5128455098061704,8,safe
+2004,Central,Dowa,Dowa North,MCP,0.2524218481621436,7,safe
+2004,Central,Dowa,Dowa North-East,MCP,0.1370929118773946,5,lean
+2004,Central,Dowa,Dowa South-East,MCP,0.6501499892864795,5,safe
+2004,Central,Dowa,Dowa West,MCP,0.45192665097261797,6,safe
+2004,Central,Kasungu,Kasungu Central,MCP,0.2761304226363891,6,safe
+2004,Central,Kasungu,Kasungu East,MCP,0.4885259179265659,4,safe
+2004,Central,Kasungu,Kasungu North,IND,0.017641529896609054,8,tossup
+2004,Central,Kasungu,Kasungu North East,MCP,0.29139832377591535,6,safe
+2004,Central,Kasungu,Kasungu North North-East,MCP,0.3984439738513949,8,safe
+2004,Central,Kasungu,Kasungu North-West,MCP,0.3395096041010438,6,safe
+2004,Central,Kasungu,Kasungu South,MCP,0.666074434262203,4,safe
+2004,Central,Kasungu,Kasungu South East,MCP,0.528743079279067,4,safe
+2004,Central,Kasungu,Kasungu West,MCP,0.4316168633072371,5,safe
+2004,Central,Lilongwe,Lilongwe Central,MCP,0.5120574653668548,4,safe
+2004,Central,Lilongwe,Lilongwe City Cen,MCP,0.00782314941030049,6,tossup
+2004,Central,Lilongwe,Lilongwe City Nor,MCP,0.291445449786884,5,safe
+2004,Central,Lilongwe,Lilongwe City Sou,MCP,0.20346783341435748,6,safe
+2004,Central,Lilongwe,Lilongwe City Wes,MCP,0.23322371634161432,6,safe
+2004,Central,Lilongwe,Lilongwe Kumach,MCP,0.5076727503859075,5,safe
+2004,Central,Lilongwe,Lilongwe Mapuyu,MCP,0.12088355729857547,10,lean
+2004,Central,Lilongwe,Lilongwe Mpenu,MCP,0.7207299394559563,4,safe
+2004,Central,Lilongwe,Lilongwe Mpenu N,MCP,0.549803861241443,8,safe
+2004,Central,Lilongwe,Lilongwe Msinja N,MCP,0.7603633360858794,3,safe
+2004,Central,Lilongwe,Lilongwe Msinja S,MCP,0.6577856719952634,8,safe
+2004,Central,Lilongwe,Lilongwe Msozi N,MCP,0.7470057770889108,5,safe
+2004,Central,Lilongwe,Lilongwe Msozi S,MCP,0.6723008794361629,6,safe
+2004,Central,Lilongwe,Lilongwe North,MCP,0.208098833218943,5,safe
+2004,Central,Lilongwe,Lilongwe North-Ea,MCP,0.49226898444647754,8,safe
+2004,Central,Lilongwe,Lilongwe North-W,MCP,0.5032577035106546,9,safe
+2004,Central,Lilongwe,Lilongwe South,MCP,0.7940688892982133,3,safe
+2004,Central,Lilongwe,Lilongwe South E,MCP,0.5724839037614369,6,safe
+2004,Central,Lilongwe,Lilongwe South W,MCP,0.7331309297912714,6,safe
+2004,Central,Lilongwe,Lilongwee City So,MCP,0.2133774912768348,8,safe
+2004,Central,Mchinji,Mchinji East,MCP,0.35418981346120104,4,safe
+2004,Central,Mchinji,Mchinji North,MCP,0.11548433934868285,7,lean
+2004,Central,Mchinji,Mchinji North-East,MCP,0.5109455411321915,6,safe
+2004,Central,Mchinji,Mchinji South,MCP,0.4275428022827884,3,safe
+2004,Central,Mchinji,Mchinji South-West,MCP,0.20655877342419082,5,safe
+2004,Central,Mchinji,Mchinji West,MCP,0.21905982905982907,10,safe
+2004,Central,Nkhotakota,Nkhotakota Central,UDF,0.20034889962426194,5,safe
+2004,Central,Nkhotakota,Nkhotakota North,UDF,0.0998684210526316,6,tossup
+2004,Central,Nkhotakota,Nkhotakota North-East,UDF,0.0662354227405248,7,tossup
+2004,Central,Nkhotakota,Nkhotakota South,UDF,0.05123180291153412,5,tossup
+2004,Central,Nkhotakota,Nkhotakota South East,IND,0.044870098947034254,6,tossup
+2004,Central,Ntcheu,Ntcheu Bwanje North,UDF,0.009102322661644735,10,tossup
+2004,Central,Ntcheu,Ntcheu Bwanje South,IND,0.19042469524184036,7,lean
+2004,Central,Ntcheu,Ntcheu Central,IND,0.08562013521958978,8,tossup
+2004,Central,Ntcheu,Ntcheu North,IND,0.010355607659241872,6,tossup
+2004,Central,Ntcheu,Ntcheu North-East,UDF,0.22051643701855267,5,safe
+2004,Central,Ntcheu,Ntcheu West,UDF,0.0003033060357901518,6,tossup
+2004,Central,Ntchisi,Ntchisi East,MCP,0.5315094339622641,4,safe
+2004,Central,Ntchisi,Ntchisi North,MCP,0.03896016205266711,5,tossup
+2004,Central,Ntchisi,Ntchisi North-East,PPM,0.058347775852108597,4,tossup
+2004,Central,Ntchisi,Ntchisi South,MCP,0.5705153976039238,5,safe
+2004,Central,Salima,Salima Central,MCP,0.26574933687002655,6,safe
+2004,Central,Salima,Salima North,MCP,0.366974186935048,3,safe
+2004,Central,Salima,Salima North-Wes,MCP,0.24351027922675667,4,safe
+2004,Central,Salima,Salima South,UDF,0.17027775804503803,4,lean
+2004,Central,Salima,Salima South-Eas,MCP,0.19639575971731446,8,lean
+2004,Northern,Chitipa,Chitipa Central,AFORD,0.13666279519938057,10,lean
+2004,Northern,Chitipa,Chitipa East,IND,0.33718162342299446,4,safe
+2004,Northern,Chitipa,Chitipa North,NDA,0.20269907945303423,7,safe
+2004,Northern,Chitipa,Chitipa South,IND,0.16704574172352793,4,lean
+2004,Northern,Chitipa,Chitipa Wenya,UDF,0.30123161135819365,7,safe
+2004,Northern,Karonga,Karonga Central,AFORD,0.2731087399592375,8,safe
+2004,Northern,Karonga,Karonga North,PPM,0.015235918678284055,10,tossup
+2004,Northern,Karonga,Karonga North We,RP,0.1489778566411593,10,lean
+2004,Northern,Karonga,Karonga Nyungwe,RP,0.21439749608763692,6,safe
+2004,Northern,Karonga,Karonga South,MGODE,0.10726930320150663,8,lean
+2004,Northern,Likoma,Likoma Islands,UDF,0.3616657159155733,4,safe
+2004,Northern,Mzimba,Mzimba Central,IND,0.37813006665465687,7,safe
+2004,Northern,Mzimba,Mzimba East,IND,0.2733302195235871,9,safe
+2004,Northern,Mzimba,Mzimba Hora,MGODE,0.08974295965007126,11,tossup
+2004,Northern,Mzimba,Mzimba Luwelezi,PPM,0.18202939542401134,8,lean
+2004,Northern,Mzimba,Mzimba North East,MGODE,0.052472652689152244,11,tossup
+2004,Northern,Mzimba,Mzimba Solora,PETRA,0.0318400105256233,12,tossup
+2004,Northern,Mzimba,Mzimba South,RP,0.17683970336565888,8,lean
+2004,Northern,Mzimba,Mzimba South West,UDF,0.1922994880546075,6,lean
+2004,Northern,Mzimba,Mzimba West,AFORD,0.20544200521490458,6,safe
+2004,Northern,Mzimba,Mzuzu City,RP,0.014657771505548811,12,tossup
+2004,Northern,Nkhata Bay,Nkhata-Bay Centra,IND,0.2855061908230153,9,safe
+2004,Northern,Nkhata Bay,Nkhata-Bay North,RP,0.0024938951524912933,18,tossup
+2004,Northern,Nkhata Bay,Nkhata-Bay South,RP,0.13071175776641764,10,lean
+2004,Northern,Nkhata Bay,Nkhata-Bay West,PPM,0.11090848806366047,9,lean
+2004,Northern,Nkhata Bay,Nkhatabay South,PPM,0.6267090893456015,6,safe
+2004,Northern,Rumphi,Rumphi Central,AFORD,0.20904073220149516,5,safe
+2004,Northern,Rumphi,Rumphi East,IND,0.15051775147928992,8,lean
+2004,Northern,Rumphi,Rumphi North,AFORD,0.19275016279574558,7,lean
+2004,Northern,Rumphi,Rumphi West,AFORD,0.038782499638222945,11,tossup
+2004,Southern,Balaka,Balaka Central Ea,UDF,0.5705283381364074,7,safe
+2004,Southern,Balaka,Balaka North,UDF,0.657429896224332,5,safe
+2004,Southern,Balaka,Balaka South,IND,0.013971404321995173,11,tossup
+2004,Southern,Balaka,Balaka West,UDF,0.5471068470293785,6,safe
+2004,Southern,Blantyre,Blantyre Bangwe,UDF,0.1370045433181889,5,lean
+2004,Southern,Blantyre,Blantyre City Cent,IND,0.0519729872881356,6,tossup
+2004,Southern,Blantyre,Blantyre City Sout,IND,0.16523773941086245,22,lean
+2004,Southern,Blantyre,Blantyre City Wes,UDF,0.1333065021017798,9,lean
+2004,Southern,Blantyre,Blantyre Kabula,UDF,0.07309494970772551,6,tossup
+2004,Southern,Blantyre,Blantyre Malabada,RP,0.04845170725503911,7,tossup
+2004,Southern,Blantyre,Blantyre North,IND,0.36548977650974795,7,safe
+2004,Southern,Blantyre,Blantyre North-Ea,UDF,0.3228888039740161,5,safe
+2004,Southern,Blantyre,Blantyre Rural Eas,UDF,0.31991930346145675,9,safe
+2004,Southern,Blantyre,Blantyre South-W,IND,0.08989210299860989,7,tossup
+2004,Southern,Blantyre,Blantyre West,CONU,0.19295643096533155,9,lean
+2004,Southern,Chikwawa,Chikwawa Central,RP,0.055766472622964636,5,tossup
+2004,Southern,Chikwawa,Chikwawa East,IND,0.2489429175475687,6,safe
+2004,Southern,Chikwawa,Chikwawa Nkomb,UDF,0.07259380097879281,5,tossup
+2004,Southern,Chikwawa,Chikwawa North,IND,0.02511997600479904,5,tossup
+2004,Southern,Chikwawa,Chikwawa South,RP,0.46162106878036313,4,safe
+2004,Southern,Chikwawa,Chikwawa West,RP,0.08987317324406102,4,tossup
+2004,Southern,Chiradzulu,Chiradzulu Centra,UDF,0.3978157267672756,8,safe
+2004,Southern,Chiradzulu,Chiradzulu East,UDF,0.5187141065416859,4,safe
+2004,Southern,Chiradzulu,Chiradzulu North,IND,0.10489445170932188,6,lean
+2004,Southern,Chiradzulu,Chiradzulu South,UDF,0.16946482201762592,10,lean
+2004,Southern,Chiradzulu,Chiradzulu West,UDF,0.04363680563996597,6,tossup
+2004,Southern,Machinga,Machinga Central,IND,0.21050988089396439,7,safe
+2004,Southern,Machinga,Machinga Central East,UDF,0.18975332068311201,4,lean
+2004,Southern,Machinga,Machinga East,UDF,0.1157111245222289,8,lean
+2004,Southern,Machinga,Machinga Likwenu,IND,0.05690683799908214,5,tossup
+2004,Southern,Machinga,Machinga North-East,UDF,0.8229099076615922,2,safe
+2004,Southern,Machinga,Machinga South,UDF,0.37967861063978436,6,safe
+2004,Southern,Machinga,Machinga South East,IND,0.5199490060909391,4,safe
+2004,Southern,Mangochi,Mangochi Central,UDF,0.19306212255980526,10,lean
+2004,Southern,Mangochi,Mangochi East,UDF,0.039532485390168404,8,tossup
+2004,Southern,Mangochi,Mangochi Malomb,IND,0.27603196539085506,5,safe
+2004,Southern,Mangochi,Mangochi Masong,IND,0.26594700686947986,7,safe
+2004,Southern,Mangochi,Mangochi Monkey,IND,0.02129901407390683,6,tossup
+2004,Southern,Mangochi,Mangochi Nkungu,IND,0.2700179533213644,5,safe
+2004,Southern,Mangochi,Mangochi North,IND,0.16108209612111968,6,lean
+2004,Southern,Mangochi,Mangochi North-E,IND,0.23707606190319397,6,safe
+2004,Southern,Mangochi,Mangochi South,UDF,0.10221833341911576,9,lean
+2004,Southern,Mangochi,Mangochi South W,IND,0.006996370632734283,11,tossup
+2004,Southern,Mangochi,Mangochi West,IND,0.13699010267320322,7,lean
+2004,Southern,Mulanje,Mulanje Bale,UDF,0.07685028725920923,10,tossup
+2004,Southern,Mulanje,Mulanje Central,NDA,0.10181493194005231,4,lean
+2004,Southern,Mulanje,Mulanje Limbuli,NDA,0.1586696111891856,6,lean
+2004,Southern,Mulanje,Mulanje North,IND,0.10023669856951734,6,lean
+2004,Southern,Mulanje,Mulanje Pasani,UDF,0.17947695288017776,8,lean
+2004,Southern,Mulanje,Mulanje South,NDA,0.27206609235983625,4,safe
+2004,Southern,Mulanje,Mulanje South East,NDA,0.07357786075115308,6,tossup
+2004,Southern,Mulanje,Mulanje South West,UDF,0.12017266630694523,6,lean
+2004,Southern,Mulanje,Mulanje West,UDF,0.10717358992411796,4,lean
+2004,Southern,Mwanza,Mwanza Central,UDF,0.13125075675021192,7,lean
+2004,Southern,Mwanza,Mwanza West,IND,0.06197491781322298,7,tossup
+2004,Southern,Neno,Neno North,NDA,0.07126535275635532,5,tossup
+2004,Southern,Neno,Neno South,PPM,0.034210024776062525,10,tossup
+2004,Southern,Nsanje,Nsanje Central,RP,0.27928474011213816,3,safe
+2004,Southern,Nsanje,Nsanje Lalanje,RP,0.280065493246009,3,safe
+2004,Southern,Nsanje,Nsanje North,RP,0.36194076874606174,3,safe
+2004,Southern,Nsanje,Nsanje South,RP,0.1872015281757402,4,lean
+2004,Southern,Nsanje,Nsanje South-Wes,RP,0.35234671730873574,5,safe
+2004,Southern,Phalombe,Phalombe Central,UDF,0.237662755184054,5,safe
+2004,Southern,Phalombe,Phalombe East,UDF,0.3338544516532479,5,safe
+2004,Southern,Phalombe,Phalombe North,IND,0.013055287829667916,7,tossup
+2004,Southern,Phalombe,Phalombe North E,UDF,0.14466647903180407,4,lean
+2004,Southern,Phalombe,Phalombe South,NDA,0.11138756831208069,6,lean
+2004,Southern,Thyolo,Thyolo Central,UDF,0.49102810066583913,7,safe
+2004,Southern,Thyolo,Thyolo East,UDF,0.49489147562649316,6,safe
+2004,Southern,Thyolo,Thyolo North,IND,0.14037778193379463,9,lean
+2004,Southern,Thyolo,Thyolo South,UDF,0.4303265643898403,3,safe
+2004,Southern,Thyolo,Thyolo South Wes,UDF,0.12604654735386742,9,lean
+2004,Southern,Thyolo,Thyolo Thava,UDF,0.11375706698646565,9,lean
+2004,Southern,Thyolo,Thyolo West,IND,0.3390215264187867,5,safe
+2004,Southern,Zomba,Zomba Central,UDF,0.07823411054562673,7,tossup
+2004,Southern,Zomba,Zomba Changalume,IND,0.16363485339313893,7,lean
+2004,Southern,Zomba,Zomba Chingale,UDF,0.07158955322815852,5,tossup
+2004,Southern,Zomba,Zomba Chisi,IND,0.29890820865345735,4,safe
+2004,Southern,Zomba,Zomba Likangala,UDF,0.2868692500696961,10,safe
+2004,Southern,Zomba,Zomba Lisanjala,UDF,0.02798655063291139,4,tossup
+2004,Southern,Zomba,Zomba Malosa,UDF,0.32741413724275586,6,safe
+2004,Southern,Zomba,Zomba Nsondole,IND,0.04417027185814243,6,tossup
+2004,Southern,Zomba,Zomba Ntonya,IND,0.10303080905068049,6,lean
+2004,Southern,Zomba,Zomba Thondwe,UDF,0.32772469772554325,5,safe
+2009,Central,Dedza,Dedza Central,MCP,0.4548128705254107,5,safe
+2009,Central,Dedza,Dedza Central East,MCP,0.34812903225806446,5,safe
+2009,Central,Dedza,Dedza East,DPP,0.09973055505658343,6,tossup
+2009,Central,Dedza,Dedza North,MCP,0.06076313267706246,4,tossup
+2009,Central,Dedza,Dedza North West,MCP,0.5372201285745954,4,safe
+2009,Central,Dedza,Dedza South,MCP,0.22056014420619335,6,safe
+2009,Central,Dedza,Dedza South West,MCP,0.24978656481689504,4,safe
+2009,Central,Dedza,Dedza West,MCP,0.46266289733158655,3,safe
+2009,Central,Dowa,Dowa Central,DPP,0.38872219685604326,3,safe
+2009,Central,Dowa,Dowa East,DPP,0.09734408347166229,6,tossup
+2009,Central,Dowa,Dowa Ngala,DPP,0.0055352726416205145,5,tossup
+2009,Central,Dowa,Dowa North,IND,0.11275995957661827,6,lean
+2009,Central,Dowa,Dowa North East,DPP,0.2322892676186089,6,safe
+2009,Central,Dowa,Dowa South East,DPP,0.00010423543309823202,7,tossup
+2009,Central,Dowa,Dowa West,MCP,0.04884687355707307,5,tossup
+2009,Central,Kasungu,Kasungu Central,DPP,0.4729796455807319,5,safe
+2009,Central,Kasungu,Kasungu East,DPP,0.27488649454496167,4,safe
+2009,Central,Kasungu,Kasungu North,DPP,0.05231570603555652,7,tossup
+2009,Central,Kasungu,Kasungu North East,DPP,0.07882653061224493,4,tossup
+2009,Central,Kasungu,Kasungu North North East,DPP,0.6088540646425074,7,safe
+2009,Central,Kasungu,Kasungu North West,DPP,0.46639297724592743,6,safe
+2009,Central,Kasungu,Kasungu South,IND,0.06708694701552365,5,tossup
+2009,Central,Kasungu,Kasungu South East,DPP,0.3057490934278613,6,safe
+2009,Central,Kasungu,Kasungu West,DPP,0.18939615362132456,4,lean
+2009,Central,Lilongwe,Lilongwe Central,MCP,0.31481777068369243,6,safe
+2009,Central,Lilongwe,Lilongwe City Centre,DPP,0.22998563406033692,10,safe
+2009,Central,Lilongwe,Lilongwe City North,IND,0.028507833233456042,6,tossup
+2009,Central,Lilongwe,Lilongwe City South East,DPP,0.22072914568526458,6,safe
+2009,Central,Lilongwe,Lilongwe City South West,DPP,0.06361881361881361,5,tossup
+2009,Central,Lilongwe,Lilongwe City West,DPP,0.29727442771889195,9,safe
+2009,Central,Lilongwe,Lilongwe East,MCP,0.17555478099221566,6,lean
+2009,Central,Lilongwe,Lilongwe Kumachenga,MCP,0.009255112703388524,5,tossup
+2009,Central,Lilongwe,Lilongwe Mpenu,MCP,0.172779610582832,4,lean
+2009,Central,Lilongwe,Lilongwe Mpenu Nkhoma,IND,0.08303274139844613,4,tossup
+2009,Central,Lilongwe,Lilongwe Msozi South,MCP,0.16049973100603737,5,lean
+2009,Central,Lilongwe,Lilongwe North,MCP,0.28440602973709933,5,safe
+2009,Central,Lilongwe,Lilongwe North East,MCP,0.07718108702708548,6,tossup
+2009,Central,Lilongwe,Lilongwe North West,MCP,0.21079046424090342,4,safe
+2009,Central,Lilongwe,Lilongwe South,MCP,0.08115632960132696,5,tossup
+2009,Central,Lilongwe,Lilongwe South East,MCP,0.3880377754459601,3,safe
+2009,Central,Lilongwe,Lilongwe South West,MCP,0.22901504124211547,6,safe
+2009,Central,Lilongwe,Mapuyu North,DPP,0.07267749911691984,4,tossup
+2009,Central,Lilongwe,Mapuyu South,MCP,0.15939387034294178,4,lean
+2009,Central,Lilongwe,Msinja North,MCP,0.02269738078238326,3,tossup
+2009,Central,Lilongwe,Msinja South,MCP,0.4118083285795779,3,safe
+2009,Central,Lilongwe,Msozi North,IND,0.15495376486129459,6,lean
+2009,Central,Mchinji,Mchinji East,DPP,0.17771230045296627,6,lean
+2009,Central,Mchinji,Mchinji North,MCP,0.023306483560015856,4,tossup
+2009,Central,Mchinji,Mchinji North East,MCP,0.12820114853329195,3,lean
+2009,Central,Mchinji,Mchinji South,IND,0.0525078738306774,4,tossup
+2009,Central,Mchinji,Mchinji South West,DPP,0.3549457177322075,5,safe
+2009,Central,Mchinji,Mchinji West,DPP,0.2486023317881725,7,safe
+2009,Central,Nkhotakota,Nkhota Kota Central,MCP,0.00044434570095530646,7,tossup
+2009,Central,Nkhotakota,Nkhota Kota North,DPP,0.5225374210236187,3,safe
+2009,Central,Nkhotakota,Nkhota Kota North East,DPP,0.4247953844089628,3,safe
+2009,Central,Nkhotakota,Nkhota Kota South,IND,0.11596981950060445,6,lean
+2009,Central,Nkhotakota,Nkhota Kota South East,IND,0.025682985590254115,6,tossup
+2009,Central,Ntcheu,Ntcheu Bwanje North,DPP,0.3690926017195116,6,safe
+2009,Central,Ntcheu,Ntcheu Bwanje South,DPP,0.26567314343205684,6,safe
+2009,Central,Ntcheu,Ntcheu Central,DPP,0.06477407640198338,11,tossup
+2009,Central,Ntcheu,Ntcheu North,DPP,0.13434432418827083,6,lean
+2009,Central,Ntcheu,Ntcheu North East,DPP,0.12638173909573408,6,lean
+2009,Central,Ntcheu,Ntcheu South,DPP,0.23751771039954664,9,safe
+2009,Central,Ntcheu,Ntcheu West,DPP,0.16597036102790474,9,lean
+2009,Central,Ntchisi,Ntchisi East,DPP,0.3315733143061006,5,safe
+2009,Central,Ntchisi,Ntchisi North,DPP,0.6783739068778066,5,safe
+2009,Central,Ntchisi,Ntchisi North East,DPP,0.3195602271354356,4,safe
+2009,Central,Ntchisi,Ntchisi South,DPP,0.37094663370655806,4,safe
+2009,Central,Salima,Salima Central,DPP,0.06535452322738389,9,tossup
+2009,Central,Salima,Salima North,MCP,0.07370693885562862,4,tossup
+2009,Central,Salima,Salima North West,DPP,0.02180922788298062,7,tossup
+2009,Central,Salima,Salima South,MPP,0.033794657225619584,7,tossup
+2009,Central,Salima,Salima South East,MCP,0.02374364584003602,7,tossup
+2009,Northern,Chitipa,Chitipa Central,DPP,0.08260748518474326,10,tossup
+2009,Northern,Chitipa,Chitipa East,IND,0.06400998484443254,3,tossup
+2009,Northern,Chitipa,Chitipa North,DPP,0.1830348958015034,8,lean
+2009,Northern,Chitipa,Chitipa South,IND,0.09301908773187562,8,tossup
+2009,Northern,Chitipa,Chitipa Wenya,IND,0.305898840616639,2,safe
+2009,Northern,Karonga,Karonga Central,IND,0.11473911598537723,4,lean
+2009,Northern,Karonga,Karonga North,DPP,0.19309632079371641,10,lean
+2009,Northern,Karonga,Karonga North West,DPP,0.10597746774852607,11,lean
+2009,Northern,Karonga,Karonga Nyungwe,AFORD,0.08841400969481805,5,tossup
+2009,Northern,Karonga,Karonga South,DPP,0.21007151370679378,7,safe
+2009,Northern,Likoma,Likoma Islands,IND,0.05818864382918815,6,tossup
+2009,Northern,Mzimba,Mzimba Central,DPP,0.3522152466367713,8,safe
+2009,Northern,Mzimba,Mzimba East,DPP,0.20885850601723277,7,safe
+2009,Northern,Mzimba,Mzimba Hora,IND,0.6066106857660327,5,safe
+2009,Northern,Mzimba,Mzimba Luwerezi,DPP,0.6048040846323444,7,safe
+2009,Northern,Mzimba,Mzimba North,DPP,0.7521634400927826,6,safe
+2009,Northern,Mzimba,Mzimba North East,DPP,0.49384639351923976,11,safe
+2009,Northern,Mzimba,Mzimba Solola,DPP,0.5686893332626107,13,safe
+2009,Northern,Mzimba,Mzimba South,IND,0.1551320528211284,7,lean
+2009,Northern,Mzimba,Mzimba South East,DPP,0.1479469910927656,6,lean
+2009,Northern,Mzimba,Mzimba South West,DPP,0.5648445437919123,3,safe
+2009,Northern,Mzimba,Mzimba West,IND,0.11485698066794914,7,lean
+2009,Northern,Mzuzu,Mzuzu City,DPP,0.5297519599023262,12,safe
+2009,Northern,Nkhatabay,Nkhata Bay Central,DPP,0.14966928164897708,4,lean
+2009,Northern,Nkhatabay,Nkhata Bay North,DPP,0.16649214659685857,5,lean
+2009,Northern,Nkhatabay,Nkhata Bay North West,DPP,0.40334549878345494,6,safe
+2009,Northern,Nkhatabay,Nkhata Bay South,DPP,0.1456195403273683,6,lean
+2009,Northern,Nkhatabay,Nkhata Bay South East,DPP,0.15820570182986293,10,lean
+2009,Northern,Nkhatabay,Nkhata Bay West,DPP,0.5071795970852979,5,safe
+2009,Northern,Rumphi,Rumphi Central,DPP,0.5562016412661196,4,safe
+2009,Northern,Rumphi,Rumphi East,DPP,0.021387638149815813,7,tossup
+2009,Northern,Rumphi,Rumphi North,DPP,0.24828166643287974,7,safe
+2009,Northern,Rumphi,Rumphi West,DPP,0.2307847285181827,7,safe
+2009,Southern,Balaka,Balaka Central East,UDF,0.22659458886503964,7,safe
+2009,Southern,Balaka,Balaka North,DPP,0.023496355418007098,5,tossup
+2009,Southern,Balaka,Balaka South,MAFUNDE,0.07139693942823405,5,tossup
+2009,Southern,Balaka,Balaka West,DPP,0.05705229793977812,11,tossup
+2009,Southern,Blantyre,Blantyre Bangwe,UDF,0.014741055303363115,7,tossup
+2009,Southern,Blantyre,Blantyre City East,DPP,0.4269302774153288,5,safe
+2009,Southern,Blantyre,Blantyre City South,IND,0.20982220564465998,10,safe
+2009,Southern,Blantyre,Blantyre City South East,DPP,0.09600610254454317,8,tossup
+2009,Southern,Blantyre,Blantyre City West,DPP,0.3710363605422882,10,safe
+2009,Southern,Blantyre,Blantyre Kabula,IND,0.10077869614904189,9,lean
+2009,Southern,Blantyre,Blantyre Malabada,DPP,0.202742887577116,7,safe
+2009,Southern,Blantyre,Blantyre North,DPP,0.0967301832734549,11,tossup
+2009,Southern,Blantyre,Blantyre North East,DPP,0.05308294485003079,6,tossup
+2009,Southern,Blantyre,Blantyre Rural East,DPP,0.18095238095238095,7,lean
+2009,Southern,Blantyre,Blantyre South West,DPP,0.20925709840528978,8,safe
+2009,Southern,Blantyre,Blantyre West,DPP,0.43306976418725074,9,safe
+2009,Southern,Chikwawa,Chikwawa Central,IND,0.03385491572225735,9,tossup
+2009,Southern,Chikwawa,Chikwawa East,IND,0.16772934906737724,10,lean
+2009,Southern,Chikwawa,Chikwawa Mkombezi,DPP,0.599183322587578,5,safe
+2009,Southern,Chikwawa,Chikwawa North,DPP,0.3772227421619092,7,safe
+2009,Southern,Chikwawa,Chikwawa South,DPP,0.23319760719851204,9,safe
+2009,Southern,Chikwawa,Chikwawa West,IND,0.3269061773067976,6,safe
+2009,Southern,Chiradzulu,Chiradzulu Central,IND,0.07890912464054917,5,tossup
+2009,Southern,Chiradzulu,Chiradzulu East,DPP,0.4112346211957695,3,safe
+2009,Southern,Chiradzulu,Chiradzulu North,DPP,0.2238829576907869,7,safe
+2009,Southern,Chiradzulu,Chiradzulu South,DPP,0.08469595358300053,9,tossup
+2009,Southern,Chiradzulu,Chiradzulu West,DPP,0.29760795278036656,7,safe
+2009,Southern,Machinga,Machinga Central,UDF,0.19670187916187287,5,lean
+2009,Southern,Machinga,Machinga Central East,UDF,0.2766106442577031,6,safe
+2009,Southern,Machinga,Machinga East,UDF,0.3954155602356316,5,safe
+2009,Southern,Machinga,Machinga Likwenu,UDF,0.03207721932433094,6,tossup
+2009,Southern,Machinga,Machinga North East,UDF,0.23200184892723702,4,safe
+2009,Southern,Machinga,Machinga South,UDF,0.1035259297387724,4,lean
+2009,Southern,Machinga,Machinga South East,UDF,0.36204347183202723,4,safe
+2009,Southern,Mangochi,Mangochi Central,UDF,0.2069827663184213,5,safe
+2009,Southern,Mangochi,Mangochi East,UDF,0.379046180405697,6,safe
+2009,Southern,Mangochi,Mangochi Lutende,IND,0.017590716522379812,6,tossup
+2009,Southern,Mangochi,Mangochi Malombe,UDF,0.018089030367338693,6,tossup
+2009,Southern,Mangochi,Mangochi Masongola,UDF,0.1339665578312061,11,lean
+2009,Southern,Mangochi,Mangochi Monkey Bay,DPP,0.21054215356838354,7,safe
+2009,Southern,Mangochi,Mangochi Nkungulu,UDF,0.08358100761145343,6,tossup
+2009,Southern,Mangochi,Mangochi North,UDF,0.40890464570192,4,safe
+2009,Southern,Mangochi,Mangochi North East,UDF,0.0865525904156989,8,tossup
+2009,Southern,Mangochi,Mangochi South,IND,0.17605713637909537,6,lean
+2009,Southern,Mangochi,Mangochi South West,UDF,0.1155387438672709,6,lean
+2009,Southern,Mangochi,Mangochi West,IND,0.024068371771507585,6,tossup
+2009,Southern,Mulanje,Mulanje Bale,DPP,0.24724156400642738,5,safe
+2009,Southern,Mulanje,Mulanje Central,DPP,0.1890573892358013,4,lean
+2009,Southern,Mulanje,Mulanje Limbuli,DPP,0.2259109984626252,5,safe
+2009,Southern,Mulanje,Mulanje North,DPP,0.10145533040874591,9,lean
+2009,Southern,Mulanje,Mulanje Pasani,DPP,0.16684308017994176,7,lean
+2009,Southern,Mulanje,Mulanje South,DPP,0.19413687651587053,5,lean
+2009,Southern,Mulanje,Mulanje South East,DPP,0.1631287328200331,7,lean
+2009,Southern,Mulanje,Mulanje South West,DPP,0.19031964747849195,4,lean
+2009,Southern,Mulanje,Mulanje West,DPP,0.32772054593944466,4,safe
+2009,Southern,Mwanza,Mwanza Central,IND,0.2241122255353754,4,safe
+2009,Southern,Mwanza,Mwanza West,DPP,0.18137465920505091,7,lean
+2009,Southern,Neno,Neno North,DPP,0.431122044119981,7,safe
+2009,Southern,Neno,Neno South,DPP,0.05853078004976742,8,tossup
+2009,Southern,Nsanje,Nsanje Central,DPP,0.43098415346121766,5,safe
+2009,Southern,Nsanje,Nsanje Lalanje,DPP,0.27481084257694854,8,safe
+2009,Southern,Nsanje,Nsanje North,DPP,0.05349048050770627,6,tossup
+2009,Southern,Nsanje,Nsanje South,DPP,0.10071718116619893,4,lean
+2009,Southern,Nsanje,Nsanje South West,DPP,0.01111657044589115,6,tossup
+2009,Southern,Phalombe,Phalombe Central,DPP,0.3728768436185506,2,safe
+2009,Southern,Phalombe,Phalombe East,DPP,0.07688458972648432,4,tossup
+2009,Southern,Phalombe,Phalombe North,DPP,0.3499076923076923,3,safe
+2009,Southern,Phalombe,Phalombe North East,DPP,0.23610593062290186,4,safe
+2009,Southern,Phalombe,Phalombe South,IND,0.14846970415496297,6,lean
+2009,Southern,Thyolo,Thyolo Central,DPP,0.3248506246605106,6,safe
+2009,Southern,Thyolo,Thyolo East,DPP,0.6865758814669085,5,safe
+2009,Southern,Thyolo,Thyolo North,DPP,0.14284616763553487,8,lean
+2009,Southern,Thyolo,Thyolo South,IND,0.0889906915541693,8,tossup
+2009,Southern,Thyolo,Thyolo South West,IND,0.035437245381996746,10,tossup
+2009,Southern,Thyolo,Thyolo Thava,IND,0.025813820673900645,4,tossup
+2009,Southern,Thyolo,Thyolo West,DPP,0.09473124002128791,3,tossup
+2009,Southern,Zomba,Zomba Central,DPP,0.10041283359880376,6,lean
+2009,Southern,Zomba,Zomba Changalume,DPP,0.08132861155208204,5,tossup
+2009,Southern,Zomba,Zomba Chingale,DPP,0.0286774068537895,6,tossup
+2009,Southern,Zomba,Zomba Chisi,IND,0.07555691648166585,4,tossup
+2009,Southern,Zomba,Zomba Likangala,IND,0.120945970267449,5,lean
+2009,Southern,Zomba,Zomba Lisanjala,DPP,0.04560382846955052,5,tossup
+2009,Southern,Zomba,Zomba Malosa,DPP,0.41917961214336485,3,safe
+2009,Southern,Zomba,Zomba Nsondole,DPP,0.20361078756383835,7,safe
+2009,Southern,Zomba,Zomba Ntonya,DPP,0.13899660688317986,7,lean
+2009,Southern,Zomba,Zomba Thondwe,DPP,0.40190030022104195,8,safe
+2014,Central,Dedza,Dedza Central,MCP,0.20474501566750464,4,safe
+2014,Central,Dedza,Dedza Central East,MCP,0.17174500831946754,11,lean
+2014,Central,Dedza,Dedza East,MCP,0.4137971872686899,4,safe
+2014,Central,Dedza,Dedza North,MCP,0.06053546194095405,5,tossup
+2014,Central,Dedza,Dedza North West,MCP,0.09820782427312591,7,tossup
+2014,Central,Dedza,Dedza South,MCP,0.3074687800192123,5,safe
+2014,Central,Dedza,Dedza South West,MCP,0.256189451022605,5,safe
+2014,Central,Dedza,Dedza West,MCP,0.3925210652561658,5,safe
+2014,Central,Dowa,Dowa Central,DPP,0.09558493948901842,6,tossup
+2014,Central,Dowa,Dowa East,MCP,0.16315049226441633,8,lean
+2014,Central,Dowa,Dowa Ngala,IND,0.12385641455408897,5,lean
+2014,Central,Dowa,Dowa North,MCP,0.17562182217946956,6,lean
+2014,Central,Dowa,Dowa North East,MCP,0.44416924664602686,5,safe
+2014,Central,Dowa,Dowa South East,MCP,0.33977687342127416,6,safe
+2014,Central,Dowa,Dowa West,MCP,0.4541310115466537,5,safe
+2014,Central,Kasungu,Kasungu Central,MCP,0.06289256537624699,4,tossup
+2014,Central,Kasungu,Kasungu East,MCP,0.3870415850326996,6,safe
+2014,Central,Kasungu,Kasungu North,PP,0.15362695595660653,8,lean
+2014,Central,Kasungu,Kasungu North East,PP,0.09112193887236597,5,tossup
+2014,Central,Kasungu,Kasungu North North East,IND,0.02611571374995736,8,tossup
+2014,Central,Kasungu,Kasungu North West,MCP,0.18238076468269612,6,lean
+2014,Central,Kasungu,Kasungu South,MCP,0.09128384497673403,9,tossup
+2014,Central,Kasungu,Kasungu South East,MCP,0.2389708636057224,7,safe
+2014,Central,Kasungu,Kasungu West,MCP,0.24435197780800727,7,safe
+2014,Central,Lilongwe,Lilongwe Central,MCP,0.2555749466744231,5,safe
+2014,Central,Lilongwe,Lilongwe City Centre,IND,0.17824918410443463,12,lean
+2014,Central,Lilongwe,Lilongwe City North,MCP,0.21777301927194861,9,safe
+2014,Central,Lilongwe,Lilongwe City South East,DPP,0.002295189470232828,7,tossup
+2014,Central,Lilongwe,Lilongwe City South West,MCP,0.13905938100479454,10,lean
+2014,Central,Lilongwe,Lilongwe City West,DPP,0.06753500199588996,6,tossup
+2014,Central,Lilongwe,Lilongwe East,MCP,0.16273315569090216,5,lean
+2014,Central,Lilongwe,Lilongwe Kumachenga,IND,0.37909421754953493,5,safe
+2014,Central,Lilongwe,Lilongwe Mpenu,MCP,0.036113848472552335,5,tossup
+2014,Central,Lilongwe,Lilongwe Mpenu Nkhoma,IND,0.037106075610182365,7,tossup
+2014,Central,Lilongwe,Lilongwe Msozi South,MCP,0.24683118630037765,5,safe
+2014,Central,Lilongwe,Lilongwe North,MCP,0.5756814374904827,7,safe
+2014,Central,Lilongwe,Lilongwe North East,MCP,0.21434510794247175,5,safe
+2014,Central,Lilongwe,Lilongwe North West,MCP,0.8543956707655883,4,safe
+2014,Central,Lilongwe,Lilongwe South,IND,0.3540677688656081,6,safe
+2014,Central,Lilongwe,Lilongwe South East,MCP,0.6229876646456199,4,safe
+2014,Central,Lilongwe,Lilongwe South West,IND,0.1388272910112939,9,lean
+2014,Central,Lilongwe,Mapuyu North,MCP,0.26794822859918804,7,safe
+2014,Central,Lilongwe,Mapuyu South,MCP,0.21089239441742053,5,safe
+2014,Central,Lilongwe,Msinja North,MCP,0.18195983992633777,7,lean
+2014,Central,Lilongwe,Msinja South,MCP,0.17446585397824094,5,lean
+2014,Central,Lilongwe,Msozi North,MCP,0.03332942142940967,7,tossup
+2014,Central,Mchinji,Mchinji East,MCP,0.05991885987724957,9,tossup
+2014,Central,Mchinji,Mchinji North,PP,0.09349730976172177,9,tossup
+2014,Central,Mchinji,Mchinji North East,MCP,0.24503158574261075,6,safe
+2014,Central,Mchinji,Mchinji South,IND,0.19723183391003463,5,lean
+2014,Central,Mchinji,Mchinji South West,MCP,0.2479600896292225,8,safe
+2014,Central,Mchinji,Mchinji West,MCP,0.2179670912951168,6,safe
+2014,Central,Nkhotakota,Nkhota Kota Central,MCP,0.04408770185158878,6,tossup
+2014,Central,Nkhotakota,Nkhota Kota North,DPP,0.0803968132373219,5,tossup
+2014,Central,Nkhotakota,Nkhota Kota North East,IND,0.013215859030837024,8,tossup
+2014,Central,Nkhotakota,Nkhota Kota South,DPP,0.21132698591153426,6,safe
+2014,Central,Nkhotakota,Nkhota Kota South East,MCP,0.16664841782546808,7,lean
+2014,Central,Ntcheu,Ntcheu Bwanje North,IND,0.03268353751229544,8,tossup
+2014,Central,Ntcheu,Ntcheu Bwanje South,DPP,0.003775924256086527,8,tossup
+2014,Central,Ntcheu,Ntcheu Central,DPP,0.2890744443137716,8,safe
+2014,Central,Ntcheu,Ntcheu North,DPP,0.022275258552108157,6,tossup
+2014,Central,Ntcheu,Ntcheu North East,DPP,0.11398982297713756,9,lean
+2014,Central,Ntcheu,Ntcheu South,DPP,0.4016734467455621,6,safe
+2014,Central,Ntcheu,Ntcheu West,DPP,0.04113086527384252,8,tossup
+2014,Central,Ntchisi,Ntchisi East,MCP,0.07604765574062,4,tossup
+2014,Central,Ntchisi,Ntchisi North,IND,0.11083995906478786,6,lean
+2014,Central,Ntchisi,Ntchisi North East,MCP,0.11231351124185757,5,lean
+2014,Central,Ntchisi,Ntchisi South,MCP,0.3493248383415748,5,safe
+2014,Central,Salima,Salima Central,MCP,0.003896029487595709,8,tossup
+2014,Central,Salima,Salima North,MCP,0.1798379960520046,5,lean
+2014,Central,Salima,Salima North West,MCP,0.31403672580143166,4,safe
+2014,Central,Salima,Salima South,PP,0.2688286454478164,6,safe
+2014,Central,Salima,Salima South East,PP,0.14183271294066127,7,lean
+2014,Northern,Chitipa,Chitipa Central,DPP,0.10568338779772934,7,lean
+2014,Northern,Chitipa,Chitipa East,DPP,0.07814141414141412,5,tossup
+2014,Northern,Chitipa,Chitipa North,PP,0.17605329714391466,3,lean
+2014,Northern,Chitipa,Chitipa South,PP,0.26623534169025476,8,safe
+2014,Northern,Chitipa,Chitipa Wenya,PP,0.06528461802771734,8,tossup
+2014,Northern,Karonga,Karonga Central,IND,0.10580021482277124,5,lean
+2014,Northern,Karonga,Karonga North,DPP,0.2486861313868613,5,safe
+2014,Northern,Karonga,Karonga North West,DPP,0.2837262141437092,9,safe
+2014,Northern,Karonga,Karonga Nyungwe,MCP,0.10410076818798014,5,lean
+2014,Northern,Karonga,Karonga South,PP,0.04744594467000285,6,tossup
+2014,Northern,Likoma,Likoma Islands,DPP,0.0012087722327749906,5,tossup
+2014,Northern,Mzimba,Mzimba Central,IND,0.30147221782491684,4,safe
+2014,Northern,Mzimba,Mzimba East,IND,0.046774706069272365,6,tossup
+2014,Northern,Mzimba,Mzimba Hora,PP,0.7095275858162455,4,safe
+2014,Northern,Mzimba,Mzimba Luwerezi,IND,0.22839629555599975,9,safe
+2014,Northern,Mzimba,Mzimba North,PP,0.11593373793652373,7,lean
+2014,Northern,Mzimba,Mzimba North East,IND,0.12601378132812974,9,lean
+2014,Northern,Mzimba,Mzimba Solola,MCP,0.04369363647910582,10,tossup
+2014,Northern,Mzimba,Mzimba South,PP,0.059931325937665036,7,tossup
+2014,Northern,Mzimba,Mzimba South East,IND,0.003854725049689811,6,tossup
+2014,Northern,Mzimba,Mzimba South West,PP,0.0021055239038890172,5,tossup
+2014,Northern,Mzimba,Mzimba West,PP,0.32329154872624344,8,safe
+2014,Northern,Mzuzu,Mzuzu City,IND,0.01384290444114622,9,tossup
+2014,Northern,Nkhatabay,Nkhata Bay Central,PP,0.03273660490736102,6,tossup
+2014,Northern,Nkhatabay,Nkhata Bay North,PP,0.16440289292644206,2,lean
+2014,Northern,Nkhatabay,Nkhata Bay North West,IND,0.0604398502188703,7,tossup
+2014,Northern,Nkhatabay,Nkhata Bay South,IND,0.43189204465168857,4,safe
+2014,Northern,Nkhatabay,Nkhata Bay South East,PP,0.25089918256130794,6,safe
+2014,Northern,Nkhatabay,Nkhata Bay West,DPP,0.20158700170035898,6,safe
+2014,Northern,Rumphi,Rumphi Central,AFORD,0.06417408506429279,7,tossup
+2014,Northern,Rumphi,Rumphi East,PP,0.09316712834718371,8,tossup
+2014,Northern,Rumphi,Rumphi North,IND,0.23766618360531788,6,safe
+2014,Northern,Rumphi,Rumphi West,IND,0.33381639011665826,7,safe
+2014,Southern,Balaka,Balaka Central East,UDF,0.11703557881596008,8,lean
+2014,Southern,Balaka,Balaka North,UDF,0.2681518402577272,5,safe
+2014,Southern,Balaka,Balaka South,DPP,0.03775432025197922,8,tossup
+2014,Southern,Balaka,Balaka West,IND,0.15010473139477576,6,lean
+2014,Southern,Blantyre,Blantyre Bangwe,DPP,0.36665945945945944,7,safe
+2014,Southern,Blantyre,Blantyre City Centre,DPP,0.05221591279942564,8,tossup
+2014,Southern,Blantyre,Blantyre City East,DPP,0.09160655336838247,6,tossup
+2014,Southern,Blantyre,Blantyre City South,IND,0.04871141941432147,14,tossup
+2014,Southern,Blantyre,Blantyre City South East,DPP,0.37094695091720375,8,safe
+2014,Southern,Blantyre,Blantyre City West,DPP,0.10073117818785654,6,lean
+2014,Southern,Blantyre,Blantyre Kabula,IND,0.10866312741312742,9,lean
+2014,Southern,Blantyre,Blantyre Malabada,DPP,0.157655093910074,9,lean
+2014,Southern,Blantyre,Blantyre North East,DPP,0.006933624181988174,4,tossup
+2014,Southern,Blantyre,Blantyre Rural East,DPP,0.01568735379111047,10,tossup
+2014,Southern,Blantyre,Blantyre South West,IND,0.15125398251776817,9,lean
+2014,Southern,Blantyre,Blantyre West,DPP,0.35002331336752623,10,safe
+2014,Southern,Chikwawa,Chikwawa Central,IND,0.1385733538698498,9,lean
+2014,Southern,Chikwawa,Chikwawa East,UDF,0.0017842377823229505,9,tossup
+2014,Southern,Chikwawa,Chikwawa Mkombezi,DPP,0.36170953393927674,5,safe
+2014,Southern,Chikwawa,Chikwawa North,IND,0.19987684097090364,7,lean
+2014,Southern,Chikwawa,Chikwawa South,PP,0.22758251387401424,7,safe
+2014,Southern,Chikwawa,Chikwawa West,DPP,0.15286481647269473,8,lean
+2014,Southern,Chiradzulu,Chiradzulu Central,IND,0.1066729207297504,14,lean
+2014,Southern,Chiradzulu,Chiradzulu East,DPP,0.3607748184019371,5,safe
+2014,Southern,Chiradzulu,Chiradzulu North,IND,0.02958859690603255,8,tossup
+2014,Southern,Chiradzulu,Chiradzulu South,DPP,0.25828932154129813,5,safe
+2014,Southern,Chiradzulu,Chiradzulu West,DPP,0.15259348612786489,6,lean
+2014,Southern,Machinga,Machinga Central,UDF,0.0716696880665125,11,tossup
+2014,Southern,Machinga,Machinga Central East,UDF,0.15993019590182392,6,lean
+2014,Southern,Machinga,Machinga East,IND,0.16642202763577468,7,lean
+2014,Southern,Machinga,Machinga Likwenu,UDF,0.002108281329060574,9,tossup
+2014,Southern,Machinga,Machinga North East,UDF,0.10097482345716918,5,lean
+2014,Southern,Machinga,Machinga South,UDF,0.28276685233602367,5,safe
+2014,Southern,Machinga,Machinga South East,PP,0.012001308044473469,6,tossup
+2014,Southern,Mangochi,Mangochi Central,UDF,0.1111139285442605,8,lean
+2014,Southern,Mangochi,Mangochi East,UDF,0.333868693199624,6,safe
+2014,Southern,Mangochi,Mangochi Lutende,IND,0.043869360642125654,5,tossup
+2014,Southern,Mangochi,Mangochi Malombe,UDF,0.28070539419087137,7,safe
+2014,Southern,Mangochi,Mangochi Masongola,IND,0.18973944360736467,7,lean
+2014,Southern,Mangochi,Mangochi Monkey Bay,PP,0.0362579473206176,6,tossup
+2014,Southern,Mangochi,Mangochi Nkungulu,UDF,0.3197334580313304,4,safe
+2014,Southern,Mangochi,Mangochi North,IND,0.11273802654356607,7,lean
+2014,Southern,Mangochi,Mangochi North East,UDF,0.354920527561718,7,safe
+2014,Southern,Mangochi,Mangochi South,UDF,0.34509679466835924,6,safe
+2014,Southern,Mangochi,Mangochi South West,IND,0.05801613865753352,6,tossup
+2014,Southern,Mangochi,Mangochi West,IND,0.025368638021246254,10,tossup
+2014,Southern,Mulanje,Mulanje Bale,IND,0.36106597335066615,4,safe
+2014,Southern,Mulanje,Mulanje Central,DPP,0.2256962241585512,7,safe
+2014,Southern,Mulanje,Mulanje Limbuli,IND,0.23305871242958087,6,safe
+2014,Southern,Mulanje,Mulanje North,IND,0.22788369608008546,7,safe
+2014,Southern,Mulanje,Mulanje Pasani,DPP,0.3931518005736341,9,safe
+2014,Southern,Mulanje,Mulanje South,DPP,0.054926513032280966,8,tossup
+2014,Southern,Mulanje,Mulanje South East,IND,0.12071227126647865,7,lean
+2014,Southern,Mulanje,Mulanje South West,DPP,0.1673599481389444,8,lean
+2014,Southern,Mulanje,Mulanje West,DPP,0.37012167643082466,4,safe
+2014,Southern,Mwanza,Mwanza Central,CCP,0.15030846887268645,7,lean
+2014,Southern,Mwanza,Mwanza West,DPP,0.034460299603292055,6,tossup
+2014,Southern,Neno,Neno North,IND,0.073379848628193,8,tossup
+2014,Southern,Neno,Neno South,IND,0.0051930362235559635,7,tossup
+2014,Southern,Nsanje,Nsanje Central,DPP,0.1734248284466625,8,lean
+2014,Southern,Nsanje,Nsanje Lalanje,IND,0.03529341745030351,6,tossup
+2014,Southern,Nsanje,Nsanje North,IND,0.36511220754416684,7,safe
+2014,Southern,Nsanje,Nsanje South,DPP,0.3539876476906552,5,safe
+2014,Southern,Nsanje,Nsanje South West,IND,0.024814145067309612,8,tossup
+2014,Southern,Phalombe,Phalombe Central,DPP,0.03869678682107325,7,tossup
+2014,Southern,Phalombe,Phalombe East,IND,0.12523105360443626,5,lean
+2014,Southern,Phalombe,Phalombe North,DPP,0.39959704499664206,3,safe
+2014,Southern,Phalombe,Phalombe North East,IND,0.1968709982740382,6,lean
+2014,Southern,Phalombe,Phalombe South,IND,0.31154122574409554,6,safe
+2014,Southern,Thyolo,Thyolo Central,IND,0.2009136743437404,9,safe
+2014,Southern,Thyolo,Thyolo East,DPP,0.8563834007775927,5,safe
+2014,Southern,Thyolo,Thyolo North,DPP,0.05209380578181744,7,tossup
+2014,Southern,Thyolo,Thyolo South,IND,0.11167534351796535,8,lean
+2014,Southern,Thyolo,Thyolo South West,DPP,0.12431587177482406,9,lean
+2014,Southern,Thyolo,Thyolo Thava,DPP,0.5648178973300486,7,safe
+2014,Southern,Thyolo,Thyolo West,DPP,0.046292446292446277,7,tossup
+2014,Southern,Zomba,Zomba Central,PP,0.022511469113410898,8,tossup
+2014,Southern,Zomba,Zomba Changalume,PP,0.0790909090909091,7,tossup
+2014,Southern,Zomba,Zomba Chingale,PP,0.24043430847280833,8,safe
+2014,Southern,Zomba,Zomba Chisi,DPP,0.2820051702821176,5,safe
+2014,Southern,Zomba,Zomba Likangala,IND,0.1136899076727157,7,lean
+2014,Southern,Zomba,Zomba Lisanjala,DPP,0.28313942399389663,6,safe
+2014,Southern,Zomba,Zomba Malosa,PP,0.30356775441339867,6,safe
+2014,Southern,Zomba,Zomba Nsondole,IND,0.001400672322714902,13,tossup
+2014,Southern,Zomba,Zomba Ntonya,PP,0.052533821246396106,7,tossup
+2014,Southern,Zomba,Zomba Thondwe,DPP,0.33848878394332943,5,safe
+2019,Central,Dedza,Dedza Central,MCP,0.47520615316348036,3,safe
+2019,Central,Dedza,Dedza Central East,IND,0.10284124351222645,7,lean
+2019,Central,Dedza,Dedza East,IND,0.10236111111111112,6,lean
+2019,Central,Dedza,Dedza North,IND,0.08661155651559838,5,tossup
+2019,Central,Dedza,Dedza North West,IND,0.12636709462672369,6,lean
+2019,Central,Dedza,Dedza South,MCP,0.14433090024330897,7,lean
+2019,Central,Dedza,Dedza South West,MCP,0.6298469387755101,3,safe
+2019,Central,Dedza,Dedza West,MCP,0.12435965377141844,8,lean
+2019,Central,Dowa,Dowa Central,MCP,0.5108504246944272,7,safe
+2019,Central,Dowa,Dowa East,MCP,0.6312769010043041,4,safe
+2019,Central,Dowa,Dowa Ngala,IND,0.11670698629132764,7,lean
+2019,Central,Dowa,Dowa North,MCP,0.17177223173258854,4,lean
+2019,Central,Dowa,Dowa North East,MCP,0.12363786112519007,9,lean
+2019,Central,Dowa,Dowa South East,MCP,0.26764207333392814,8,safe
+2019,Central,Dowa,Dowa West,IND,0.1960232870577699,7,lean
+2019,Central,Kasungu,Kasungu Central,MCP,0.5186631445963018,5,safe
+2019,Central,Kasungu,Kasungu East,IND,0.4389900926813678,7,safe
+2019,Central,Kasungu,Kasungu North,MCP,0.10129659643435979,7,lean
+2019,Central,Kasungu,Kasungu North East,IND,0.25073906955033454,7,safe
+2019,Central,Kasungu,Kasungu North North East,MCP,0.2828270252324038,7,safe
+2019,Central,Kasungu,Kasungu North West,MCP,0.1143693607218276,6,lean
+2019,Central,Kasungu,Kasungu South,MCP,0.39447465297713535,8,safe
+2019,Central,Kasungu,Kasungu South East,MCP,0.141240157480315,6,lean
+2019,Central,Kasungu,Kasungu West,MCP,0.5526616969284542,8,safe
+2019,Central,Lilongwe,Lilongwe Central,MCP,0.25048037331869344,6,safe
+2019,Central,Lilongwe,Lilongwe City Centre,MCP,0.1635786188403886,13,lean
+2019,Central,Lilongwe,Lilongwe City North,IND,0.22792607802874743,10,safe
+2019,Central,Lilongwe,Lilongwe City South East,MCP,0.2323212679582857,6,safe
+2019,Central,Lilongwe,Lilongwe City South West,IND,0.2561666482971454,6,safe
+2019,Central,Lilongwe,Lilongwe City West,MCP,0.09699410796173574,7,tossup
+2019,Central,Lilongwe,Lilongwe East,MCP,0.0033428844317096584,5,tossup
+2019,Central,Lilongwe,Lilongwe Kumachenga,MCP,0.5096241423280101,4,safe
+2019,Central,Lilongwe,Lilongwe Mpenu,MCP,0.02497811496936092,5,tossup
+2019,Central,Lilongwe,Lilongwe Mpenu Nkhoma,MCP,0.44145664362310166,5,safe
+2019,Central,Lilongwe,Lilongwe Msinja North,DPP,0.06121857567195538,5,tossup
+2019,Central,Lilongwe,Lilongwe Msinja South,MCP,0.1465311533362793,5,lean
+2019,Central,Lilongwe,Lilongwe Msozi North,MCP,0.7267175572519083,5,safe
+2019,Central,Lilongwe,Lilongwe Msozi South,MCP,0.2938471155563493,6,safe
+2019,Central,Lilongwe,Lilongwe North,IND,0.12452973520474608,8,lean
+2019,Central,Lilongwe,Lilongwe North East,IND,0.5135815194324864,5,safe
+2019,Central,Lilongwe,Lilongwe North West,MCP,0.8538349568917254,4,safe
+2019,Central,Lilongwe,Lilongwe South East,IND,0.05127225073714098,6,tossup
+2019,Central,Lilongwe,Lilongwe South West,MCP,0.03413040637658432,9,tossup
+2019,Central,Lilongwe,Mapuyu North,MCP,0.42728294113975407,4,safe
+2019,Central,Lilongwe,Mapuyu South,IND,0.18575864562507977,8,lean
+2019,Central,Mchinji,Mchinji Central,MCP,0.23841527122808004,9,safe
+2019,Central,Mchinji,Mchinji East,IND,0.08470224066973861,6,tossup
+2019,Central,Mchinji,Mchinji North,MCP,0.049664849095266195,6,tossup
+2019,Central,Mchinji,Mchinji North East,DPP,0.0029360491788237297,4,tossup
+2019,Central,Mchinji,Mchinji South,MCP,0.14184139296246923,7,lean
+2019,Central,Mchinji,Mchinji South West,MCP,0.14503093194971062,8,lean
+2019,Central,Nkhotakota,Nkhotakota Central,MCP,0.24042720740230336,8,safe
+2019,Central,Nkhotakota,Nkhotakota North,DPP,0.19548692641381782,8,lean
+2019,Central,Nkhotakota,Nkhotakota North East,DPP,0.10439048624479907,6,lean
+2019,Central,Nkhotakota,Nkhotakota South,MCP,0.03548971193415634,6,tossup
+2019,Central,Nkhotakota,Nkhotakota South East,UDF,0.012602216007646327,7,tossup
+2019,Central,Ntcheu,Ntcheu Bwanje North,IND,0.07830706727978926,11,tossup
+2019,Central,Ntcheu,Ntcheu Bwanje South,IND,0.23572987631457107,11,safe
+2019,Central,Ntcheu,Ntcheu Central,MCP,0.07535860300741457,9,tossup
+2019,Central,Ntcheu,Ntcheu North,MCP,0.07190700249100473,3,tossup
+2019,Central,Ntcheu,Ntcheu North East,IND,0.04052098408104193,6,tossup
+2019,Central,Ntcheu,Ntcheu South,DPP,0.07211270460649671,6,tossup
+2019,Central,Ntcheu,Ntcheu West,UTM,0.32468177144275434,7,safe
+2019,Central,Ntchisi,Ntchisi East,IND,0.09820251963523272,7,tossup
+2019,Central,Ntchisi,Ntchisi North,IND,0.21916673569121176,6,safe
+2019,Central,Ntchisi,Ntchisi North East,MCP,0.3884963768115942,6,safe
+2019,Central,Ntchisi,Ntchisi South,MCP,0.05211854995928239,8,tossup
+2019,Central,Salima,Salima Central,MCP,0.3155732443189113,6,safe
+2019,Central,Salima,Salima North,MCP,0.2509098261221189,3,safe
+2019,Central,Salima,Salima North West,MCP,0.2292364822026991,5,safe
+2019,Central,Salima,Salima South,MCP,0.01327390282131663,3,tossup
+2019,Central,Salima,Salima South East,MCP,0.20873296314992426,6,safe
+2019,Northern,Chitipa,Chitipa Central,IND,0.20903723422408793,4,safe
+2019,Northern,Chitipa,Chitipa East,MCP,0.09782342871117633,6,tossup
+2019,Northern,Chitipa,Chitipa North,DPP,0.1041766682669227,5,lean
+2019,Northern,Chitipa,Chitipa South,DPP,0.45361003026372676,6,safe
+2019,Northern,Chitipa,Chitipa Wenya,IND,0.2247694991278345,7,safe
+2019,Northern,Karonga,Karonga Central,MCP,0.007291082445316899,5,tossup
+2019,Northern,Karonga,Karonga North,DPP,0.6181970925560669,5,safe
+2019,Northern,Karonga,Karonga North West,DPP,0.09896418001836921,5,tossup
+2019,Northern,Karonga,Karonga Nyungwe,IND,0.2390852390852391,7,safe
+2019,Northern,Karonga,Karonga South,MCP,0.10051107325383307,5,lean
+2019,Northern,Likoma,Likoma Islands,MCP,0.3227312013828868,6,safe
+2019,Northern,Mzimba,Mzimba Central,IND,0.1416657522221003,5,lean
+2019,Northern,Mzimba,Mzimba East,IND,0.1365406190193361,8,lean
+2019,Northern,Mzimba,Mzimba Hora,DPP,0.3908211131302033,7,safe
+2019,Northern,Mzimba,Mzimba Luwerezi,IND,0.11405122399886797,8,lean
+2019,Northern,Mzimba,Mzimba North,AFORD,0.003774112384679895,7,tossup
+2019,Northern,Mzimba,Mzimba North East,MCP,0.048228579148231976,8,tossup
+2019,Northern,Mzimba,Mzimba Solola,MCP,0.1260406342913776,11,lean
+2019,Northern,Mzimba,Mzimba South,IND,0.20560007312391457,8,safe
+2019,Northern,Mzimba,Mzimba South East,PP,0.022098120458776238,6,tossup
+2019,Northern,Mzimba,Mzimba South West,DPP,0.027481055418606737,4,tossup
+2019,Northern,Mzimba,Mzimba West,IND,0.11837589236683138,7,lean
+2019,Northern,Mzimba,Mzuzu City,MCP,0.1273972602739726,11,lean
+2019,Northern,Nkhatabay,Nkhatabay Central,DPP,0.0005738880918221279,6,tossup
+2019,Northern,Nkhatabay,Nkhatabay North,UTM,0.14891766524932354,3,lean
+2019,Northern,Nkhatabay,Nkhatabay North West,DPP,0.10494329929202431,10,lean
+2019,Northern,Nkhatabay,Nkhatabay South,MCP,0.0465564534064794,8,tossup
+2019,Northern,Nkhatabay,Nkhatabay South East,PP,0.1906799491876713,9,lean
+2019,Northern,Nkhatabay,Nkhatabay West,UTM,0.1615060688630171,3,lean
+2019,Northern,Rumphi,Rumphi Central,IND,0.12401391127322081,6,lean
+2019,Northern,Rumphi,Rumphi East,PP,0.1513378832195862,5,lean
+2019,Northern,Rumphi,Rumphi North,DPP,0.6343396226415094,4,safe
+2019,Northern,Rumphi,Rumphi West,IND,0.28162924206089673,8,safe
+2019,Southern,Balaka,Balaka Central East,DPP,0.17874067053666626,7,lean
+2019,Southern,Balaka,Balaka North,IND,0.34160748429390875,7,safe
+2019,Southern,Balaka,Balaka South,IND,0.11263361115035081,17,lean
+2019,Southern,Balaka,Balaka West,DPP,0.09457610026651303,6,tossup
+2019,Southern,Blantyre,Blantyre Bangwe,IND,0.2665298279325705,6,safe
+2019,Southern,Blantyre,Blantyre City Centre,DPP,0.0885521691536556,9,tossup
+2019,Southern,Blantyre,Blantyre City East,IND,0.497708901817433,6,safe
+2019,Southern,Blantyre,Blantyre City South,DPP,0.08420432130954275,10,tossup
+2019,Southern,Blantyre,Blantyre City South East,DPP,0.39638964742273025,6,safe
+2019,Southern,Blantyre,Blantyre City West,UTM,0.0765746333045729,9,tossup
+2019,Southern,Blantyre,Blantyre Kabula,IND,0.14705048522516628,10,lean
+2019,Southern,Blantyre,Blantyre Malabada,UDF,0.12013233781910851,11,lean
+2019,Southern,Blantyre,Blantyre North,DPP,0.41707670043415346,7,safe
+2019,Southern,Blantyre,Blantyre North East,IND,0.055640050697084886,6,tossup
+2019,Southern,Blantyre,Blantyre Rural East,DPP,0.5438857482891997,5,safe
+2019,Southern,Blantyre,Blantyre South West,DPP,0.1591769697522697,7,lean
+2019,Southern,Blantyre,Blantyre West,IND,8.428150021067005e-05,11,tossup
+2019,Southern,Chikhwawa,Chikhwawa Central,IND,0.14377243509474916,11,lean
+2019,Southern,Chikhwawa,Chikhwawa East,UDF,0.008562184343434365,9,tossup
+2019,Southern,Chikhwawa,Chikhwawa Mkombezi,MCP,0.0409719859362595,7,tossup
+2019,Southern,Chikhwawa,Chikhwawa North,DPP,0.4419685715729372,4,safe
+2019,Southern,Chikhwawa,Chikhwawa South,MCP,0.3540247805038156,5,safe
+2019,Southern,Chikhwawa,Chikhwawa West,IND,0.1791166365600539,6,lean
+2019,Southern,Chiradzulu,Chiradzulu Central,DPP,0.6260117529659608,8,safe
+2019,Southern,Chiradzulu,Chiradzulu East,IND,0.2167090951168711,5,safe
+2019,Southern,Chiradzulu,Chiradzulu North,IND,0.033002336448598124,8,tossup
+2019,Southern,Chiradzulu,Chiradzulu South,DPP,0.7051282051282051,4,safe
+2019,Southern,Chiradzulu,Chiradzulu West,IND,0.27129521586931155,5,safe
+2019,Southern,Machinga,Machinga Central,DPP,0.007086957982064296,12,tossup
+2019,Southern,Machinga,Machinga Central East,DPP,0.059193530270695294,8,tossup
+2019,Southern,Machinga,Machinga East,UDF,0.47389711911660193,9,safe
+2019,Southern,Machinga,Machinga Likwenu,DPP,0.34540933248817585,8,safe
+2019,Southern,Machinga,Machinga North East,IND,0.040549378678875064,7,tossup
+2019,Southern,Machinga,Machinga South,UDF,0.04951625503275042,7,tossup
+2019,Southern,Machinga,Machinga South East,DPP,0.06344886382267109,8,tossup
+2019,Southern,Mangochi,Mangochi Central,DPP,0.10112471137373685,7,lean
+2019,Southern,Mangochi,Mangochi East,DPP,0.08858955498344978,5,tossup
+2019,Southern,Mangochi,Mangochi Lutende,PP,0.1811931692171213,4,lean
+2019,Southern,Mangochi,Mangochi Malombe,UDF,0.02752813890585462,11,tossup
+2019,Southern,Mangochi,Mangochi Masongola,IND,0.08167415063966788,9,tossup
+2019,Southern,Mangochi,Mangochi Monkey Bay,DPP,0.011212415130940845,8,tossup
+2019,Southern,Mangochi,Mangochi Nkungulu,UDF,0.07997417874049634,6,tossup
+2019,Southern,Mangochi,Mangochi North,DPP,0.2786162786162786,6,safe
+2019,Southern,Mangochi,Mangochi North East,UDF,0.08237154826023768,8,tossup
+2019,Southern,Mangochi,Mangochi South,UDF,0.059243934549558036,8,tossup
+2019,Southern,Mangochi,Mangochi South West,DPP,0.19836109982391983,9,lean
+2019,Southern,Mangochi,Mangochi West,DPP,0.0004551891563827626,10,tossup
+2019,Southern,Mulanje,Mulanje Bale,DPP,0.4145348230134698,6,safe
+2019,Southern,Mulanje,Mulanje Central,DPP,0.7088948787061995,4,safe
+2019,Southern,Mulanje,Mulanje Limbuli,DPP,0.17122320223484733,5,lean
+2019,Southern,Mulanje,Mulanje North,IND,0.024443929564411493,6,tossup
+2019,Southern,Mulanje,Mulanje Pasani,DPP,0.2692863560017187,9,safe
+2019,Southern,Mulanje,Mulanje South,DPP,0.32608977966321806,6,safe
+2019,Southern,Mulanje,Mulanje South East,DPP,0.053028356035295154,8,tossup
+2019,Southern,Mulanje,Mulanje South West,DPP,0.09338754035633146,8,tossup
+2019,Southern,Mulanje,Mulanje West,DPP,0.029762442417125834,6,tossup
+2019,Southern,Mwanza,Mwanza Central,DPP,0.05711532283970444,5,tossup
+2019,Southern,Mwanza,Mwanza West,DPP,0.14127490519472702,9,lean
+2019,Southern,Neno,Neno North,DPP,0.2072077922077922,11,safe
+2019,Southern,Neno,Neno South,IND,0.04178693547670853,10,tossup
+2019,Southern,Nsanje,Nsanje Central,DPP,0.06546237046265357,5,tossup
+2019,Southern,Nsanje,Nsanje Lalanje,DPP,0.28014302741358754,5,safe
+2019,Southern,Nsanje,Nsanje North,DPP,0.07355449428620164,4,tossup
+2019,Southern,Nsanje,Nsanje South,IND,0.05783256291730865,8,tossup
+2019,Southern,Nsanje,Nsanje South West,IND,0.30948719075449316,5,safe
+2019,Southern,Phalombe,Phalombe Central,IND,0.4576322244695959,4,safe
+2019,Southern,Phalombe,Phalombe East,IND,0.32755528989838617,3,safe
+2019,Southern,Phalombe,Phalombe North,DPP,0.10811172586114581,7,lean
+2019,Southern,Phalombe,Phalombe North East,DPP,0.10271403353927627,6,lean
+2019,Southern,Phalombe,Phalombe South,DPP,0.36651802503626496,10,safe
+2019,Southern,Thyolo,Thyolo Central,DPP,0.8079254921183664,6,safe
+2019,Southern,Thyolo,Thyolo East,DPP,0.3210252908323781,6,safe
+2019,Southern,Thyolo,Thyolo North,IND,0.07171663632383102,7,tossup
+2019,Southern,Thyolo,Thyolo South (Thekerani),IND,0.06837016574585636,8,tossup
+2019,Southern,Thyolo,Thyolo South West,DPP,0.18972700093123557,6,lean
+2019,Southern,Thyolo,Thyolo Thava,DPP,0.7455195899693853,7,safe
+2019,Southern,Thyolo,Thyolo West,DPP,0.009033085680688446,6,tossup
+2019,Southern,Zomba,Zomba Central/City,DPP,0.13968552762706232,9,lean
+2019,Southern,Zomba,Zomba Changalume,PP,0.05244933292595988,9,tossup
+2019,Southern,Zomba,Zomba Chingale,DPP,0.060527859237536646,7,tossup
+2019,Southern,Zomba,Zomba Chisi,DPP,0.13841709994222995,6,lean
+2019,Southern,Zomba,Zomba Likangala,IND,0.36038802428641215,10,safe
+2019,Southern,Zomba,Zomba Lisanjala,IND,0.10289245097161281,6,lean
+2019,Southern,Zomba,Zomba Malosa,DPP,0.04414814814814816,9,tossup
+2019,Southern,Zomba,Zomba Nsondole,DPP,0.0660284951024043,9,tossup
+2019,Southern,Zomba,Zomba Ntonya,UDF,0.20787602986228845,16,safe
+2019,Southern,Zomba,Zomba Thondwe,IND,0.1939458046853125,8,lean
