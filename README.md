@@ -2,7 +2,7 @@
 
 **A full-cycle data analytics study of every Malawian presidential and parliamentary election from the founding multiparty vote of 1994 to the court-ordered presidential re-run of 2020** - from 12 messy official PDF files to a harmonized 189,419-row dataset, seven political-science metrics, district-level maps, and a publish-ready findings report.
 
-![/[Presidential winner by district, 2019 vs 2020](https://github.com/PhilipKatema/Malawi-Elections-Analytics/blob/main/docs/figures/metric_b2.png)]
+!/[[Presidential winner by district, 2019 vs 2020](https://github.com/PhilipKatema/Malawi-Elections-Analytics/blob/main/docs/figures/metric_b2.png)]
 
 *The whole story in one image: in 2019 Malawi is three colors - a UTM-purple North, an MCP-green Centre, a DPP-blue South. In the 2020 re-run the purple vanishes: every UTM district (and only the UTM districts) flips to MCP. Not one district changed hands between the two big parties directly.*
 
